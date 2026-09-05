@@ -1,0 +1,49 @@
+name: Actualizar marquesina bursátil
+
+on:
+  schedule:
+    # Rueda BVC: 9:30 a 15:55 hora Colombia (UTC-5) => 14:30 a 20:55 UTC, lun-vie
+    - cron: "*/10 14-20 * * 1-5"
+    # Cierre definitivo del día
+    - cron: "15 21 * * 1-5"
+    # Un refresco diario en fin de semana/festivo para mantener viva la fecha
+    - cron: "0 13 * * 6,0"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: scrape-bvc
+  cancel-in-progress: false
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - name: Instalar dependencias
+        run: |
+          pip install -r requirements.txt
+          python -m playwright install --with-deps chromium
+
+      - name: Extraer datos de la BVC
+        run: python scraper/scrape_bvc.py
+
+      - name: Publicar cambios
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add docs/data/bvc.json
+          if git diff --staged --quiet; then
+            echo "Sin cambios en los datos"
+          else
+            git commit -m "Datos BVC $(date -u '+%Y-%m-%d %H:%M UTC')"
+            git push
+          fi

@@ -1,0 +1,207 @@
+<!DOCTYPE html>
+<html lang="es-CO">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Bursátil local — BVC</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans+Condensed:wght@500;600&family=IBM+Plex+Mono:wght@400;600&display=swap" rel="stylesheet">
+<style>
+  :root{
+    --tinta:#132433;
+    --tinta-alta:#1b3145;
+    --texto:#eaf1f6;
+    --tenue:#8fa6b8;
+    --alza:#3fbe84;
+    --baja:#e2604f;
+    --neutro:#9fb2c1;
+    --borde:rgba(234,241,246,.14);
+  }
+  *{box-sizing:border-box}
+  html,body{margin:0}
+  body{
+    background:var(--tinta);
+    color:var(--texto);
+    font-family:"IBM Plex Sans Condensed",-apple-system,Segoe UI,Roboto,sans-serif;
+    -webkit-font-smoothing:antialiased;
+  }
+
+  .cinta{
+    display:flex;
+    align-items:stretch;
+    height:64px;
+    border-top:1px solid var(--borde);
+    border-bottom:1px solid var(--borde);
+    background:linear-gradient(180deg,var(--tinta-alta),var(--tinta));
+    overflow:hidden;
+  }
+
+  .rotulo{
+    display:flex;
+    flex-direction:column;
+    justify-content:center;
+    gap:2px;
+    padding:0 18px;
+    flex:0 0 auto;
+    background:var(--tinta);
+    border-right:1px solid var(--borde);
+    z-index:2;
+  }
+  .rotulo h1{
+    margin:0;
+    font-size:19px;
+    font-weight:600;
+    letter-spacing:.2px;
+    line-height:1;
+  }
+  .rotulo .sello{
+    font-family:"IBM Plex Mono",monospace;
+    font-size:10.5px;
+    color:var(--tenue);
+    line-height:1;
+  }
+
+  .pista{position:relative;flex:1 1 auto;overflow:hidden}
+  .pista::after{
+    content:"";
+    position:absolute;
+    inset:0 0 0 auto;
+    width:56px;
+    background:linear-gradient(90deg,rgba(19,36,51,0),var(--tinta));
+    pointer-events:none;
+  }
+  .rieles{display:flex;width:max-content;animation:correr 42s linear infinite}
+  .pista:hover .rieles,.pista:focus-within .rieles{animation-play-state:paused}
+  @keyframes correr{from{transform:translateX(0)}to{transform:translateX(-50%)}}
+
+  .grupo{display:flex;align-items:center}
+
+  .especie{
+    display:flex;
+    align-items:baseline;
+    gap:9px;
+    padding:0 22px;
+    height:64px;
+    line-height:64px;
+    white-space:nowrap;
+    border-right:1px solid rgba(234,241,246,.07);
+  }
+  .nemo{font-size:16px;font-weight:600;letter-spacing:.3px}
+  .precio{font-family:"IBM Plex Mono",monospace;font-size:12.5px;color:var(--tenue)}
+  .var{
+    font-family:"IBM Plex Mono",monospace;
+    font-size:14px;
+    font-weight:600;
+    font-variant-numeric:tabular-nums;
+  }
+  .var.sube{color:var(--alza)}
+  .var.baja{color:var(--baja)}
+  .var.igual{color:var(--neutro)}
+
+  .estado{
+    padding:22px 20px;
+    font-size:14px;
+    color:var(--tenue);
+    max-width:70ch;
+  }
+  .estado b{color:var(--texto);font-weight:600}
+  .estado a{color:var(--texto)}
+
+  @media (max-width:640px){
+    .rotulo h1{font-size:16px}
+    .especie{padding:0 16px}
+  }
+
+  @media (prefers-reduced-motion:reduce){
+    .rieles{animation:none;overflow-x:auto}
+    .pista{overflow-x:auto}
+    .grupo.copia{display:none}
+  }
+</style>
+</head>
+<body>
+
+<div class="cinta">
+  <div class="rotulo">
+    <h1>Bursátil local</h1>
+    <span class="sello" id="sello">Cargando…</span>
+  </div>
+  <div class="pista" tabindex="0" aria-label="Cotizaciones de la Bolsa de Valores de Colombia">
+    <div class="rieles" id="rieles"></div>
+  </div>
+</div>
+
+<p class="estado" id="estado"></p>
+
+<script>
+const rieles = document.getElementById('rieles');
+const sello = document.getElementById('sello');
+const estado = document.getElementById('estado');
+
+const fmtFecha = (iso) => {
+  const [a, m, d] = iso.split('-').map(Number);
+  return new Date(a, m - 1, d).toLocaleDateString('es-CO', {
+    day: 'numeric', month: 'long', year: 'numeric'
+  });
+};
+
+function claseVariacion(valor) {
+  if (valor === null || valor === undefined) return 'igual';
+  if (valor > 0) return 'sube';
+  if (valor < 0) return 'baja';
+  return 'igual';
+}
+
+function flecha(valor) {
+  if (valor === null || valor === undefined || valor === 0) return '=';
+  return valor > 0 ? '▲' : '▼';
+}
+
+function grupo(especies, copia) {
+  const cont = document.createElement('div');
+  cont.className = copia ? 'grupo copia' : 'grupo';
+  if (copia) cont.setAttribute('aria-hidden', 'true');
+  especies.forEach((e) => {
+    const item = document.createElement('div');
+    item.className = 'especie';
+    item.innerHTML = `
+      <span class="nemo"></span>
+      <span class="precio"></span>
+      <span class="var ${claseVariacion(e.variacion_valor)}"></span>`;
+    item.querySelector('.nemo').textContent = e.nemotecnico;
+    item.querySelector('.precio').textContent = e.precio;
+    item.querySelector('.var').textContent = `${flecha(e.variacion_valor)} ${e.variacion}`;
+    item.title = e.emisor || e.nemotecnico;
+    cont.appendChild(item);
+  });
+  return cont;
+}
+
+async function cargar() {
+  try {
+    const res = await fetch(`data/bvc.json?v=${Date.now()}`);
+    if (!res.ok) throw new Error(res.status);
+    const d = await res.json();
+
+    rieles.replaceChildren(grupo(d.especies, false), grupo(d.especies, true));
+    sello.textContent = `${fmtFecha(d.fecha_datos)} · ${d.actualizado.slice(11)} COT`;
+
+    const hoy = new Date().toISOString().slice(0, 10);
+    const rezago = d.fecha_datos !== hoy
+      ? ' El mercado no operó hoy, así que se muestra el cierre del último día hábil.'
+      : '';
+    estado.innerHTML = `Las 10 especies más negociadas por volumen en la rueda de la Bolsa de Valores de Colombia. `
+      + `Datos del <b>${fmtFecha(d.fecha_datos)}</b>, actualizados a las <b>${d.actualizado.slice(11)}</b> `
+      + `hora de Colombia.${rezago} Fuente: <a href="${d.fuente}" target="_blank" rel="noopener">BVC</a>.`;
+  } catch (e) {
+    sello.textContent = 'Datos no disponibles';
+    estado.textContent = 'No se pudo leer el archivo de datos. Revisa que la última ejecución de GitHub Actions haya terminado bien.';
+  }
+}
+
+cargar();
+setInterval(cargar, 5 * 60 * 1000);
+</script>
+</body>
+</html>

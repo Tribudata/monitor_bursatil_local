@@ -1,0 +1,19 @@
+{
+  "fuente": "https://www.bvc.com.co/mercado-local-en-linea?tab=renta-variable_mercado-local",
+  "fecha_datos": "2026-09-04",
+  "origen_fecha": "selector de la BVC",
+  "actualizado": "2026-09-04 16:05",
+  "zona_horaria": "America/Bogota",
+  "especies": [
+    {"nemotecnico":"ECOPETROL","emisor":"ECOPETROL","precio":"2,700.00","volumen":"60,504,510,195.00","variacion":"0.37%","variacion_valor":0.37},
+    {"nemotecnico":"PFCIBEST","emisor":"Grupo Cibest S.A.","precio":"77,620.00","volumen":"16,260,057,780.00","variacion":"-1.27%","variacion_valor":-1.27},
+    {"nemotecnico":"PFGRUPSURA","emisor":"GRUPO SURA","precio":"56,000.00","volumen":"12,267,531,500.00","variacion":"5.07%","variacion_valor":5.07},
+    {"nemotecnico":"CEMARGOS","emisor":"CEMENTOS ARGOS","precio":"10,800.00","volumen":"10,243,073,900.00","variacion":"1.12%","variacion_valor":1.12},
+    {"nemotecnico":"PFGRUPOARG","emisor":"GRUPO ARGOS","precio":"16,500.00","volumen":"8,751,588,820.00","variacion":"-1.67%","variacion_valor":-1.67},
+    {"nemotecnico":"ICOLCAP","emisor":"FONDO BURSATIL ISHARES COLCAP","precio":"25,100.00","volumen":"5,940,957,399.00","variacion":"0.01%","variacion_valor":0.01},
+    {"nemotecnico":"ISA","emisor":"ISA INTERCONEXION ELECTRICA","precio":"29,500.00","volumen":"5,675,450,820.00","variacion":"1.51%","variacion_valor":1.51},
+    {"nemotecnico":"GRUPOSURA","emisor":"GRUPO SURA","precio":"70,000.00","volumen":"5,613,047,280.00","variacion":"1.92%","variacion_valor":1.92},
+    {"nemotecnico":"CIBEST","emisor":"Grupo Cibest S.A.","precio":"90,300.00","volumen":"5,384,828,780.00","variacion":"0.00%","variacion_valor":0.0},
+    {"nemotecnico":"GRUPOARGOS","emisor":"GRUPO ARGOS","precio":"21,360.00","volumen":"5,368,699,220.00","variacion":"1.71%","variacion_valor":1.71}
+  ]
+}
