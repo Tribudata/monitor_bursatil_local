@@ -1,89 +1,89 @@
 {
   "fuente": "https://www.bvc.com.co/mercado-local-en-linea?tab=renta-variable_mercado-local",
-  "fecha_datos": "2026-09-10",
+  "fecha_datos": "2026-09-11",
   "origen_fecha": "selector de la BVC",
-  "actualizado": "2026-09-10 18:11",
+  "actualizado": "2026-09-11 12:38",
   "zona_horaria": "America/Bogota",
   "especies": [
     {
       "nemotecnico": "ECOPETROL",
       "emisor": "ECOPETROL",
-      "precio": "2,790.00",
-      "volumen": "67,444,838,770.00",
-      "variacion": "1.09%",
-      "variacion_valor": 1.09
-    },
-    {
-      "nemotecnico": "PFCIBEST",
-      "emisor": "Grupo Cibest S.A.",
-      "precio": "79,480.00",
-      "volumen": "36,305,629,360.00",
-      "variacion": "2.77%",
-      "variacion_valor": 2.77
-    },
-    {
-      "nemotecnico": "CEMARGOS",
-      "emisor": "CEMENTOS ARGOS",
-      "precio": "11,480.00",
-      "volumen": "11,295,862,320.00",
-      "variacion": "4.17%",
-      "variacion_valor": 4.17
-    },
-    {
-      "nemotecnico": "ICOLCAP",
-      "emisor": "FONDO BURSATIL ISHARES COLCAP",
-      "precio": "26,027.00",
-      "volumen": "11,070,545,483.50",
-      "variacion": "1.28%",
-      "variacion_valor": 1.28
-    },
-    {
-      "nemotecnico": "CIBEST",
-      "emisor": "Grupo Cibest S.A.",
-      "precio": "95,460.00",
-      "volumen": "9,992,645,860.00",
-      "variacion": "2.76%",
-      "variacion_valor": 2.76
-    },
-    {
-      "nemotecnico": "PFGRUPSURA",
-      "emisor": "GRUPO SURA",
-      "precio": "59,200.00",
-      "volumen": "8,408,879,660.00",
-      "variacion": "5.19%",
-      "variacion_valor": 5.19
+      "precio": "2,750.00",
+      "volumen": "20,732,821,770.00",
+      "variacion": "-1.43%",
+      "variacion_valor": -1.43
     },
     {
       "nemotecnico": "GRUPOSURA",
       "emisor": "GRUPO SURA",
-      "precio": "69,000.00",
-      "volumen": "7,348,192,180.00",
-      "variacion": "1.77%",
-      "variacion_valor": 1.77
+      "precio": "69,500.00",
+      "volumen": "9,720,099,820.00",
+      "variacion": "0.72%",
+      "variacion_valor": 0.72
+    },
+    {
+      "nemotecnico": "ICOLCAP",
+      "emisor": "FONDO BURSATIL ISHARES COLCAP",
+      "precio": "25,760.50",
+      "volumen": "9,422,614,684.50",
+      "variacion": "-1.02%",
+      "variacion_valor": -1.02
+    },
+    {
+      "nemotecnico": "PFGRUPSURA",
+      "emisor": "GRUPO SURA",
+      "precio": "57,860.00",
+      "volumen": "9,229,464,920.00",
+      "variacion": "-2.26%",
+      "variacion_valor": -2.26
+    },
+    {
+      "nemotecnico": "PFCIBEST",
+      "emisor": "Grupo Cibest S.A.",
+      "precio": "78,620.00",
+      "volumen": "8,317,353,260.00",
+      "variacion": "-1.08%",
+      "variacion_valor": -1.08
+    },
+    {
+      "nemotecnico": "CIBEST",
+      "emisor": "Grupo Cibest S.A.",
+      "precio": "93,000.00",
+      "volumen": "5,150,280,960.00",
+      "variacion": "-2.58%",
+      "variacion_valor": -2.58
     },
     {
       "nemotecnico": "PFGRUPOARG",
       "emisor": "GRUPO ARGOS",
-      "precio": "16,840.00",
-      "volumen": "6,882,943,820.00",
-      "variacion": "-0.71%",
-      "variacion_valor": -0.71
+      "precio": "16,880.00",
+      "volumen": "3,985,034,660.00",
+      "variacion": "0.24%",
+      "variacion_valor": 0.24
+    },
+    {
+      "nemotecnico": "CEMARGOS",
+      "emisor": "CEMENTOS ARGOS",
+      "precio": "11,500.00",
+      "volumen": "3,296,458,180.00",
+      "variacion": "0.17%",
+      "variacion_valor": 0.17
     },
     {
       "nemotecnico": "MINEROS",
       "emisor": "MINEROS",
-      "precio": "20,020.00",
-      "volumen": "4,380,476,740.00",
-      "variacion": "0.91%",
-      "variacion_valor": 0.91
+      "precio": "20,160.00",
+      "volumen": "2,549,027,140.00",
+      "variacion": "0.70%",
+      "variacion_valor": 0.7
     },
     {
       "nemotecnico": "GEB",
       "emisor": "GRUPO ENERGIA BOGOTA",
-      "precio": "2,960.00",
-      "volumen": "4,181,122,830.00",
-      "variacion": "0.68%",
-      "variacion_valor": 0.68
+      "precio": "2,955.00",
+      "volumen": "2,135,974,775.00",
+      "variacion": "-0.17%",
+      "variacion_valor": -0.17
     }
   ]
 }
