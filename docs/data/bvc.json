@@ -2,88 +2,88 @@
   "fuente": "https://www.bvc.com.co/mercado-local-en-linea?tab=renta-variable_mercado-local",
   "fecha_datos": "2026-09-14",
   "origen_fecha": "selector de la BVC",
-  "actualizado": "2026-09-14 14:06",
+  "actualizado": "2026-09-14 17:29",
   "zona_horaria": "America/Bogota",
   "especies": [
     {
       "nemotecnico": "ECOPETROL",
       "emisor": "ECOPETROL",
-      "precio": "2,740.00",
-      "volumen": "51,859,959,780.00",
-      "variacion": "0.37%",
-      "variacion_valor": 0.37
+      "precio": "2,765.00",
+      "volumen": "55,748,601,400.00",
+      "variacion": "1.28%",
+      "variacion_valor": 1.28
     },
     {
       "nemotecnico": "PFGRUPSURA",
       "emisor": "GRUPO SURA",
-      "precio": "57,200.00",
-      "volumen": "11,909,555,640.00",
-      "variacion": "-1.35%",
-      "variacion_valor": -1.35
+      "precio": "56,400.00",
+      "volumen": "13,787,511,500.00",
+      "variacion": "-2.73%",
+      "variacion_valor": -2.73
     },
     {
       "nemotecnico": "PFCIBEST",
       "emisor": "Grupo Cibest S.A.",
-      "precio": "78,960.00",
-      "volumen": "9,250,499,780.00",
-      "variacion": "0.33%",
-      "variacion_valor": 0.33
+      "precio": "78,820.00",
+      "volumen": "13,330,351,440.00",
+      "variacion": "0.15%",
+      "variacion_valor": 0.15
     },
     {
       "nemotecnico": "PFGRUPOARG",
       "emisor": "GRUPO ARGOS",
-      "precio": "16,780.00",
-      "volumen": "8,207,658,980.00",
-      "variacion": "-0.36%",
-      "variacion_valor": -0.36
+      "precio": "16,440.00",
+      "volumen": "11,224,921,220.00",
+      "variacion": "-2.38%",
+      "variacion_valor": -2.38
     },
     {
       "nemotecnico": "CIBEST",
       "emisor": "Grupo Cibest S.A.",
-      "precio": "92,760.00",
-      "volumen": "7,514,086,820.00",
-      "variacion": "0.69%",
-      "variacion_valor": 0.69
+      "precio": "92,480.00",
+      "volumen": "10,813,608,400.00",
+      "variacion": "0.39%",
+      "variacion_valor": 0.39
     },
     {
       "nemotecnico": "TEVAICOL",
       "emisor": "FONDO BURSATIL BTG PAC TEVA",
       "precio": "27,300.00",
-      "volumen": "6,869,269,000.00",
+      "volumen": "7,753,212,200.00",
       "variacion": "0.40%",
       "variacion_valor": 0.4
     },
     {
       "nemotecnico": "CEMARGOS",
       "emisor": "CEMENTOS ARGOS",
-      "precio": "11,640.00",
-      "volumen": "6,025,032,220.00",
-      "variacion": "1.39%",
-      "variacion_valor": 1.39
+      "precio": "11,600.00",
+      "volumen": "7,170,558,020.00",
+      "variacion": "1.05%",
+      "variacion_valor": 1.05
     },
     {
       "nemotecnico": "GRUPOSURA",
       "emisor": "GRUPO SURA",
-      "precio": "68,380.00",
-      "volumen": "5,120,711,020.00",
-      "variacion": "-0.20%",
-      "variacion_valor": -0.2
+      "precio": "68,900.00",
+      "volumen": "6,526,007,760.00",
+      "variacion": "0.55%",
+      "variacion_valor": 0.55
     },
     {
       "nemotecnico": "GEB",
       "emisor": "GRUPO ENERGIA BOGOTA",
-      "precio": "2,995.00",
-      "volumen": "4,574,617,150.00",
-      "variacion": "2.74%",
-      "variacion_valor": 2.74
+      "precio": "3,000.00",
+      "volumen": "5,489,900,335.00",
+      "variacion": "2.92%",
+      "variacion_valor": 2.92
     },
     {
       "nemotecnico": "PEI",
       "emisor": "PEI",
-      "precio": "69,420.00",
-      "volumen": "4,001,966,620.00",
-      "variacion": "2.18%",
-      "variacion_valor": 2.18
+      "precio": "69,880.00",
+      "volumen": "4,369,586,380.00",
+      "variacion": "2.86%",
+      "variacion_valor": 2.86
     }
   ]
 }
