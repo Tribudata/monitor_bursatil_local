@@ -1,89 +1,89 @@
 {
   "fuente": "https://www.bvc.com.co/mercado-local-en-linea?tab=renta-variable_mercado-local",
-  "fecha_datos": "2026-09-14",
+  "fecha_datos": "2026-09-15",
   "origen_fecha": "selector de la BVC",
-  "actualizado": "2026-09-14 18:52",
+  "actualizado": "2026-09-15 13:02",
   "zona_horaria": "America/Bogota",
   "especies": [
     {
       "nemotecnico": "ECOPETROL",
       "emisor": "ECOPETROL",
-      "precio": "2,765.00",
-      "volumen": "55,748,601,400.00",
-      "variacion": "1.28%",
-      "variacion_valor": 1.28
+      "precio": "2,835.00",
+      "volumen": "71,624,668,385.00",
+      "variacion": "2.53%",
+      "variacion_valor": 2.53
     },
     {
-      "nemotecnico": "PFGRUPSURA",
-      "emisor": "GRUPO SURA",
-      "precio": "56,400.00",
-      "volumen": "13,787,511,500.00",
-      "variacion": "-2.73%",
-      "variacion_valor": -2.73
+      "nemotecnico": "ICOLCAP",
+      "emisor": "FONDO BURSATIL ISHARES COLCAP",
+      "precio": "25,280.00",
+      "volumen": "20,704,591,386.00",
+      "variacion": "-1.86%",
+      "variacion_valor": -1.86
     },
     {
       "nemotecnico": "PFCIBEST",
       "emisor": "Grupo Cibest S.A.",
-      "precio": "78,820.00",
-      "volumen": "13,330,351,440.00",
-      "variacion": "0.15%",
-      "variacion_valor": 0.15
-    },
-    {
-      "nemotecnico": "PFGRUPOARG",
-      "emisor": "GRUPO ARGOS",
-      "precio": "16,440.00",
-      "volumen": "11,224,921,220.00",
-      "variacion": "-2.38%",
-      "variacion_valor": -2.38
-    },
-    {
-      "nemotecnico": "CIBEST",
-      "emisor": "Grupo Cibest S.A.",
-      "precio": "92,480.00",
-      "volumen": "10,813,608,400.00",
-      "variacion": "0.39%",
-      "variacion_valor": 0.39
-    },
-    {
-      "nemotecnico": "TEVAICOL",
-      "emisor": "FONDO BURSATIL BTG PAC TEVA",
-      "precio": "27,300.00",
-      "volumen": "7,753,212,200.00",
-      "variacion": "0.40%",
-      "variacion_valor": 0.4
-    },
-    {
-      "nemotecnico": "CEMARGOS",
-      "emisor": "CEMENTOS ARGOS",
-      "precio": "11,600.00",
-      "volumen": "7,170,558,020.00",
-      "variacion": "1.05%",
-      "variacion_valor": 1.05
+      "precio": "78,160.00",
+      "volumen": "13,073,328,140.00",
+      "variacion": "-0.84%",
+      "variacion_valor": -0.84
     },
     {
       "nemotecnico": "GRUPOSURA",
       "emisor": "GRUPO SURA",
-      "precio": "68,900.00",
-      "volumen": "6,526,007,760.00",
-      "variacion": "0.55%",
-      "variacion_valor": 0.55
+      "precio": "68,400.00",
+      "volumen": "12,775,110,060.00",
+      "variacion": "-0.73%",
+      "variacion_valor": -0.73
     },
     {
-      "nemotecnico": "GEB",
-      "emisor": "GRUPO ENERGIA BOGOTA",
-      "precio": "3,000.00",
-      "volumen": "5,489,900,335.00",
-      "variacion": "2.92%",
-      "variacion_valor": 2.92
+      "nemotecnico": "CEMARGOS",
+      "emisor": "CEMENTOS ARGOS",
+      "precio": "11,520.00",
+      "volumen": "8,019,211,980.00",
+      "variacion": "-0.69%",
+      "variacion_valor": -0.69
     },
     {
-      "nemotecnico": "PEI",
-      "emisor": "PEI",
-      "precio": "69,880.00",
-      "volumen": "4,369,586,380.00",
-      "variacion": "2.86%",
-      "variacion_valor": 2.86
+      "nemotecnico": "CIBEST",
+      "emisor": "Grupo Cibest S.A.",
+      "precio": "91,460.00",
+      "volumen": "7,991,519,080.00",
+      "variacion": "-1.10%",
+      "variacion_valor": -1.1
+    },
+    {
+      "nemotecnico": "PFGRUPSURA",
+      "emisor": "GRUPO SURA",
+      "precio": "54,700.00",
+      "volumen": "5,595,569,280.00",
+      "variacion": "-3.01%",
+      "variacion_valor": -3.01
+    },
+    {
+      "nemotecnico": "HCOLSEL",
+      "emisor": "FONDO BURSATIL GLOBAL X COLOMBIA,[object Object],SELECT DE S&P",
+      "precio": "28,820.00",
+      "volumen": "4,327,697,115.00",
+      "variacion": "-2.31%",
+      "variacion_valor": -2.31
+    },
+    {
+      "nemotecnico": "PFAVAL",
+      "emisor": "GRUPO AVAL ACCIONES Y VALORES",
+      "precio": "835.00",
+      "volumen": "3,836,554,745.00",
+      "variacion": "-0.60%",
+      "variacion_valor": -0.6
+    },
+    {
+      "nemotecnico": "ISA",
+      "emisor": "ISA INTERCONEXION ELECTRICA",
+      "precio": "28,960.00",
+      "volumen": "3,569,440,420.00",
+      "variacion": "-3.01%",
+      "variacion_valor": -3.01
     }
   ]
 }
