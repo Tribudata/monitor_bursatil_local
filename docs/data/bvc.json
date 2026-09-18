@@ -2,88 +2,88 @@
   "fuente": "https://www.bvc.com.co/mercado-local-en-linea?tab=renta-variable_mercado-local",
   "fecha_datos": "2026-09-18",
   "origen_fecha": "selector de la BVC",
-  "actualizado": "2026-09-18 12:35",
+  "actualizado": "2026-09-18 14:57",
   "zona_horaria": "America/Bogota",
   "especies": [
     {
       "nemotecnico": "ECOPETROL",
       "emisor": "ECOPETROL",
-      "precio": "2,795.00",
-      "volumen": "64,879,524,900.00",
-      "variacion": "0.90%",
-      "variacion_valor": 0.9
-    },
-    {
-      "nemotecnico": "CEMARGOS",
-      "emisor": "CEMENTOS ARGOS",
-      "precio": "11,620.00",
-      "volumen": "25,640,711,160.00",
-      "variacion": "-0.85%",
-      "variacion_valor": -0.85
+      "precio": "2,785.00",
+      "volumen": "81,513,163,000.00",
+      "variacion": "0.54%",
+      "variacion_valor": 0.54
     },
     {
       "nemotecnico": "PFCIBEST",
       "emisor": "Grupo Cibest S.A.",
-      "precio": "76,480.00",
-      "volumen": "16,481,045,600.00",
-      "variacion": "-1.32%",
-      "variacion_valor": -1.32
+      "precio": "76,500.00",
+      "volumen": "34,910,728,900.00",
+      "variacion": "-1.29%",
+      "variacion_valor": -1.29
     },
     {
-      "nemotecnico": "ICOLCAP",
-      "emisor": "FONDO BURSATIL ISHARES COLCAP",
-      "precio": "25,160.50",
-      "volumen": "11,876,500,900.50",
-      "variacion": "0.06%",
-      "variacion_valor": 0.06
+      "nemotecnico": "CEMARGOS",
+      "emisor": "CEMENTOS ARGOS",
+      "precio": "11,360.00",
+      "volumen": "27,945,452,520.00",
+      "variacion": "-3.07%",
+      "variacion_valor": -3.07
     },
     {
       "nemotecnico": "MINEROS",
       "emisor": "MINEROS",
-      "precio": "21,060.00",
-      "volumen": "11,833,756,000.00",
-      "variacion": "2.73%",
-      "variacion_valor": 2.73
+      "precio": "21,100.00",
+      "volumen": "20,331,051,700.00",
+      "variacion": "2.93%",
+      "variacion_valor": 2.93
     },
     {
-      "nemotecnico": "ISA",
-      "emisor": "ISA INTERCONEXION ELECTRICA",
-      "precio": "28,680.00",
-      "volumen": "10,187,810,600.00",
-      "variacion": "0.42%",
-      "variacion_valor": 0.42
-    },
-    {
-      "nemotecnico": "PROMIGAS",
-      "emisor": "PROMIGAS",
-      "precio": "5,870.00",
-      "volumen": "8,958,848,850.00",
-      "variacion": "-2.17%",
-      "variacion_valor": -2.17
+      "nemotecnico": "CIBEST",
+      "emisor": "Grupo Cibest S.A.",
+      "precio": "89,060.00",
+      "volumen": "13,969,491,200.00",
+      "variacion": "0.07%",
+      "variacion_valor": 0.07
     },
     {
       "nemotecnico": "CORFICOLCF",
       "emisor": "CORFICOLOMBIANA",
-      "precio": "22,640.00",
-      "volumen": "8,895,000,180.00",
-      "variacion": "2.91%",
-      "variacion_valor": 2.91
+      "precio": "22,800.00",
+      "volumen": "13,930,286,980.00",
+      "variacion": "3.64%",
+      "variacion_valor": 3.64
     },
     {
-      "nemotecnico": "PFAVAL",
-      "emisor": "GRUPO AVAL ACCIONES Y VALORES",
-      "precio": "836.00",
-      "volumen": "8,285,126,110.00",
-      "variacion": "0.12%",
-      "variacion_valor": 0.12
+      "nemotecnico": "ISA",
+      "emisor": "ISA INTERCONEXION ELECTRICA",
+      "precio": "28,740.00",
+      "volumen": "12,511,002,800.00",
+      "variacion": "0.63%",
+      "variacion_valor": 0.63
+    },
+    {
+      "nemotecnico": "ICOLCAP",
+      "emisor": "FONDO BURSATIL ISHARES COLCAP",
+      "precio": "25,030.50",
+      "volumen": "11,936,602,203.50",
+      "variacion": "-0.46%",
+      "variacion_valor": -0.46
+    },
+    {
+      "nemotecnico": "PROMIGAS",
+      "emisor": "PROMIGAS",
+      "precio": "5,980.00",
+      "volumen": "9,473,924,690.00",
+      "variacion": "-0.33%",
+      "variacion_valor": -0.33
     },
     {
       "nemotecnico": "GRUPOARGOS",
       "emisor": "GRUPO ARGOS",
-      "precio": "20,900.00",
-      "volumen": "6,820,190,040.00",
-      "variacion": "3.47%",
-      "variacion_valor": 3.47
+      "precio": "20,880.00",
+      "volumen": "9,375,209,620.00",
+      "variacion": "3.37%",
+      "variacion_valor": 3.37
     }
   ]
 }
