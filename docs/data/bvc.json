@@ -1,17 +1,89 @@
 {
   "fuente": "https://www.bvc.com.co/mercado-local-en-linea?tab=renta-variable_mercado-local",
-  "fecha_datos": "2026-09-20",
+  "fecha_datos": "2026-09-21",
   "origen_fecha": "selector de la BVC",
-  "actualizado": "2026-09-20 11:32",
+  "actualizado": "2026-09-21 14:09",
   "zona_horaria": "America/Bogota",
   "especies": [
     {
-      "nemotecnico": "Hoy es un día no bursátil\n\nNo hay cifras para mostrarte porque no hay movimientos en el mercado.",
-      "emisor": "",
-      "precio": "",
-      "volumen": "",
-      "variacion": "—",
-      "variacion_valor": null
+      "nemotecnico": "ECOPETROL",
+      "emisor": "ECOPETROL",
+      "precio": "2,710.00",
+      "volumen": "41,115,446,325.00",
+      "variacion": "-3.39%",
+      "variacion_valor": -3.39
+    },
+    {
+      "nemotecnico": "PFCIBEST",
+      "emisor": "Grupo Cibest S.A.",
+      "precio": "78,200.00",
+      "volumen": "16,967,897,440.00",
+      "variacion": "1.69%",
+      "variacion_valor": 1.69
+    },
+    {
+      "nemotecnico": "GRUPOSURA",
+      "emisor": "GRUPO SURA",
+      "precio": "67,480.00",
+      "volumen": "13,983,872,700.00",
+      "variacion": "2.55%",
+      "variacion_valor": 2.55
+    },
+    {
+      "nemotecnico": "PFDAVIGRP",
+      "emisor": "Davivienda Group",
+      "precio": "38,740.00",
+      "volumen": "13,222,874,080.00",
+      "variacion": "-6.06%",
+      "variacion_valor": -6.06
+    },
+    {
+      "nemotecnico": "CEMARGOS",
+      "emisor": "CEMENTOS ARGOS",
+      "precio": "11,600.00",
+      "volumen": "11,230,294,200.00",
+      "variacion": "-1.53%",
+      "variacion_valor": -1.53
+    },
+    {
+      "nemotecnico": "ICOLCAP",
+      "emisor": "FONDO BURSATIL ISHARES COLCAP",
+      "precio": "25,510.00",
+      "volumen": "9,526,004,949.50",
+      "variacion": "1.52%",
+      "variacion_valor": 1.52
+    },
+    {
+      "nemotecnico": "GRUPOARGOS",
+      "emisor": "GRUPO ARGOS",
+      "precio": "21,940.00",
+      "volumen": "9,504,764,060.00",
+      "variacion": "4.48%",
+      "variacion_valor": 4.48
+    },
+    {
+      "nemotecnico": "CIBEST",
+      "emisor": "Grupo Cibest S.A.",
+      "precio": "90,680.00",
+      "volumen": "9,257,116,020.00",
+      "variacion": "-0.33%",
+      "variacion_valor": -0.33
+    },
+    {
+      "nemotecnico": "EXITO",
+      "emisor": "EXITO",
+      "precio": "4,900.00",
+      "volumen": "8,099,450,695.00",
+      "variacion": "-1.61%",
+      "variacion_valor": -1.61
+    },
+    {
+      "nemotecnico": "MINEROS",
+      "emisor": "MINEROS",
+      "precio": "21,820.00",
+      "volumen": "4,003,698,640.00",
+      "variacion": "-0.55%",
+      "variacion_valor": -0.55
     }
   ]
 }
