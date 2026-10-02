@@ -1,89 +1,89 @@
 {
   "fuente": "https://www.bvc.com.co/mercado-local-en-linea?tab=renta-variable_mercado-local",
-  "fecha_datos": "2026-10-01",
+  "fecha_datos": "2026-10-02",
   "origen_fecha": "selector de la BVC",
-  "actualizado": "2026-10-01 19:47",
+  "actualizado": "2026-10-02 14:03",
   "zona_horaria": "America/Bogota",
   "especies": [
     {
       "nemotecnico": "ECOPETROL",
       "emisor": "ECOPETROL",
-      "precio": "2,700.00",
-      "volumen": "41,999,282,105.00",
-      "variacion": "-0.18%",
-      "variacion_valor": -0.18
+      "precio": "2,705.00",
+      "volumen": "21,094,154,910.00",
+      "variacion": "0.19%",
+      "variacion_valor": 0.19
     },
     {
       "nemotecnico": "PFCIBEST",
       "emisor": "Grupo Cibest S.A.",
-      "precio": "75,300.00",
-      "volumen": "24,402,509,020.00",
-      "variacion": "-1.72%",
-      "variacion_valor": -1.72
-    },
-    {
-      "nemotecnico": "PFDAVIGRP",
-      "emisor": "Davivienda Group",
-      "precio": "39,600.00",
-      "volumen": "16,895,977,760.00",
-      "variacion": "-%",
-      "variacion_valor": null
-    },
-    {
-      "nemotecnico": "GRUPOSURA",
-      "emisor": "GRUPO SURA",
-      "precio": "69,280.00",
-      "volumen": "14,938,776,160.00",
-      "variacion": "0.41%",
-      "variacion_valor": 0.41
+      "precio": "74,940.00",
+      "volumen": "16,448,634,600.00",
+      "variacion": "-0.48%",
+      "variacion_valor": -0.48
     },
     {
       "nemotecnico": "PFGRUPOARG",
       "emisor": "GRUPO ARGOS",
-      "precio": "16,700.00",
-      "volumen": "7,791,821,600.00",
-      "variacion": "2.08%",
-      "variacion_valor": 2.08
+      "precio": "16,580.00",
+      "volumen": "8,746,758,880.00",
+      "variacion": "-0.72%",
+      "variacion_valor": -0.72
     },
     {
-      "nemotecnico": "CIBEST",
-      "emisor": "Grupo Cibest S.A.",
-      "precio": "88,540.00",
-      "volumen": "7,777,865,800.00",
-      "variacion": "-1.62%",
-      "variacion_valor": -1.62
-    },
-    {
-      "nemotecnico": "GRUPOARGOS",
-      "emisor": "GRUPO ARGOS",
-      "precio": "21,460.00",
-      "volumen": "7,467,936,620.00",
-      "variacion": "-1.83%",
-      "variacion_valor": -1.83
+      "nemotecnico": "ICOLCAP",
+      "emisor": "FONDO BURSATIL ISHARES COLCAP",
+      "precio": "24,983.00",
+      "volumen": "5,521,156,322.50",
+      "variacion": "-0.04%",
+      "variacion_valor": -0.04
     },
     {
       "nemotecnico": "PFGRUPSURA",
       "emisor": "GRUPO SURA",
-      "precio": "57,000.00",
-      "volumen": "4,926,360,820.00",
-      "variacion": "-3.13%",
-      "variacion_valor": -3.13
+      "precio": "56,620.00",
+      "volumen": "3,814,574,240.00",
+      "variacion": "-0.67%",
+      "variacion_valor": -0.67
+    },
+    {
+      "nemotecnico": "CEMARGOS",
+      "emisor": "CEMENTOS ARGOS",
+      "precio": "11,280.00",
+      "volumen": "3,578,832,120.00",
+      "variacion": "-%",
+      "variacion_valor": null
     },
     {
       "nemotecnico": "ISA",
       "emisor": "ISA INTERCONEXION ELECTRICA",
-      "precio": "28,900.00",
-      "volumen": "4,152,115,200.00",
-      "variacion": "1.40%",
-      "variacion_valor": 1.4
+      "precio": "28,320.00",
+      "volumen": "2,926,800,960.00",
+      "variacion": "-2.01%",
+      "variacion_valor": -2.01
     },
     {
-      "nemotecnico": "CELSIA",
-      "emisor": "CELSIA",
-      "precio": "4,770.00",
-      "volumen": "3,064,505,645.00",
-      "variacion": "-0.62%",
-      "variacion_valor": -0.62
+      "nemotecnico": "CIBEST",
+      "emisor": "Grupo Cibest S.A.",
+      "precio": "87,300.00",
+      "volumen": "2,842,614,040.00",
+      "variacion": "-1.40%",
+      "variacion_valor": -1.4
+    },
+    {
+      "nemotecnico": "GRUPOARGOS",
+      "emisor": "GRUPO ARGOS",
+      "precio": "21,500.00",
+      "volumen": "2,653,841,480.00",
+      "variacion": "0.19%",
+      "variacion_valor": 0.19
+    },
+    {
+      "nemotecnico": "GRUPOSURA",
+      "emisor": "GRUPO SURA",
+      "precio": "68,420.00",
+      "volumen": "1,989,458,420.00",
+      "variacion": "-1.24%",
+      "variacion_valor": -1.24
     }
   ]
 }
