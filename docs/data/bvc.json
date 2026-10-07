@@ -1,89 +1,89 @@
 {
   "fuente": "https://www.bvc.com.co/mercado-local-en-linea?tab=renta-variable_mercado-local",
-  "fecha_datos": "2026-10-06",
+  "fecha_datos": "2026-10-07",
   "origen_fecha": "selector de la BVC",
-  "actualizado": "2026-10-06 19:42",
+  "actualizado": "2026-10-07 14:48",
   "zona_horaria": "America/Bogota",
   "especies": [
     {
       "nemotecnico": "PFCIBEST",
       "emisor": "Grupo Cibest S.A.",
-      "precio": "78,020.00",
-      "volumen": "30,259,769,800.00",
-      "variacion": "0.31%",
-      "variacion_valor": 0.31
+      "precio": "76,260.00",
+      "volumen": "28,593,456,700.00",
+      "variacion": "-2.26%",
+      "variacion_valor": -2.26
     },
     {
       "nemotecnico": "ECOPETROL",
       "emisor": "ECOPETROL",
-      "precio": "2,750.00",
-      "volumen": "26,359,904,805.00",
-      "variacion": "-0.90%",
-      "variacion_valor": -0.9
-    },
-    {
-      "nemotecnico": "PFGRUPSURA",
-      "emisor": "GRUPO SURA",
-      "precio": "59,400.00",
-      "volumen": "15,979,845,700.00",
-      "variacion": "2.95%",
-      "variacion_valor": 2.95
-    },
-    {
-      "nemotecnico": "CIBEST",
-      "emisor": "Grupo Cibest S.A.",
-      "precio": "91,940.00",
-      "volumen": "10,321,060,800.00",
-      "variacion": "-0.39%",
-      "variacion_valor": -0.39
-    },
-    {
-      "nemotecnico": "CELSIA",
-      "emisor": "CELSIA",
-      "precio": "4,730.00",
-      "volumen": "7,696,937,590.00",
-      "variacion": "-1.46%",
-      "variacion_valor": -1.46
+      "precio": "2,710.00",
+      "volumen": "17,453,609,950.00",
+      "variacion": "-1.45%",
+      "variacion_valor": -1.45
     },
     {
       "nemotecnico": "ICOLCAP",
       "emisor": "FONDO BURSATIL ISHARES COLCAP",
-      "precio": "25,743.00",
-      "volumen": "7,432,163,061.50",
-      "variacion": "0.18%",
-      "variacion_valor": 0.18
+      "precio": "25,378.50",
+      "volumen": "14,049,060,049.50",
+      "variacion": "-1.42%",
+      "variacion_valor": -1.42
+    },
+    {
+      "nemotecnico": "PFGRUPSURA",
+      "emisor": "GRUPO SURA",
+      "precio": "59,060.00",
+      "volumen": "10,403,411,880.00",
+      "variacion": "-0.57%",
+      "variacion_valor": -0.57
     },
     {
       "nemotecnico": "GRUPOARGOS",
       "emisor": "GRUPO ARGOS",
-      "precio": "21,600.00",
-      "volumen": "6,689,183,720.00",
-      "variacion": "0.47%",
-      "variacion_valor": 0.47
+      "precio": "21,000.00",
+      "volumen": "7,436,236,380.00",
+      "variacion": "-2.78%",
+      "variacion_valor": -2.78
+    },
+    {
+      "nemotecnico": "MINEROS",
+      "emisor": "MINEROS",
+      "precio": "22,540.00",
+      "volumen": "5,148,591,380.00",
+      "variacion": "-2.84%",
+      "variacion_valor": -2.84
+    },
+    {
+      "nemotecnico": "GRUPOSURA",
+      "emisor": "GRUPO SURA",
+      "precio": "68,840.00",
+      "volumen": "4,846,685,700.00",
+      "variacion": "-1.66%",
+      "variacion_valor": -1.66
     },
     {
       "nemotecnico": "PFGRUPOARG",
       "emisor": "GRUPO ARGOS",
-      "precio": "16,580.00",
-      "volumen": "6,301,614,120.00",
-      "variacion": "0.48%",
-      "variacion_valor": 0.48
+      "precio": "16,400.00",
+      "volumen": "3,929,389,240.00",
+      "variacion": "-1.09%",
+      "variacion_valor": -1.09
+    },
+    {
+      "nemotecnico": "CIBEST",
+      "emisor": "Grupo Cibest S.A.",
+      "precio": "89,660.00",
+      "volumen": "3,671,553,340.00",
+      "variacion": "-2.48%",
+      "variacion_valor": -2.48
     },
     {
       "nemotecnico": "ISA",
       "emisor": "ISA INTERCONEXION ELECTRICA",
-      "precio": "29,300.00",
-      "volumen": "5,997,111,340.00",
-      "variacion": "1.03%",
-      "variacion_valor": 1.03
-    },
-    {
-      "nemotecnico": "CEMARGOS",
-      "emisor": "CEMENTOS ARGOS",
-      "precio": "11,500.00",
-      "volumen": "5,287,765,660.00",
-      "variacion": "-1.37%",
-      "variacion_valor": -1.37
+      "precio": "29,040.00",
+      "volumen": "2,622,981,240.00",
+      "variacion": "-0.89%",
+      "variacion_valor": -0.89
     }
   ]
 }
