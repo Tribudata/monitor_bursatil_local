@@ -2,88 +2,88 @@
   "fuente": "https://www.bvc.com.co/mercado-local-en-linea?tab=renta-variable_mercado-local",
   "fecha_datos": "2026-10-08",
   "origen_fecha": "selector de la BVC",
-  "actualizado": "2026-10-08 14:43",
+  "actualizado": "2026-10-08 18:59",
   "zona_horaria": "America/Bogota",
   "especies": [
     {
-      "nemotecnico": "ECOPETROL",
-      "emisor": "ECOPETROL",
-      "precio": "2,745.00",
-      "volumen": "34,789,138,680.00",
-      "variacion": "1.67%",
-      "variacion_valor": 1.67
-    },
-    {
       "nemotecnico": "PFCIBEST",
       "emisor": "Grupo Cibest S.A.",
-      "precio": "75,700.00",
-      "volumen": "22,565,407,840.00",
-      "variacion": "-0.42%",
-      "variacion_valor": -0.42
+      "precio": "75,460.00",
+      "volumen": "37,841,091,020.00",
+      "variacion": "-0.74%",
+      "variacion_valor": -0.74
     },
     {
-      "nemotecnico": "PFGRUPSURA",
-      "emisor": "GRUPO SURA",
-      "precio": "59,120.00",
-      "volumen": "13,536,777,940.00",
-      "variacion": "0.17%",
-      "variacion_valor": 0.17
-    },
-    {
-      "nemotecnico": "MINEROS",
-      "emisor": "MINEROS",
-      "precio": "22,620.00",
-      "volumen": "10,252,660,300.00",
-      "variacion": "0.44%",
-      "variacion_valor": 0.44
+      "nemotecnico": "ECOPETROL",
+      "emisor": "ECOPETROL",
+      "precio": "2,720.00",
+      "volumen": "35,818,898,245.00",
+      "variacion": "0.74%",
+      "variacion_valor": 0.74
     },
     {
       "nemotecnico": "CIBEST",
       "emisor": "Grupo Cibest S.A.",
-      "precio": "88,640.00",
-      "volumen": "8,316,777,920.00",
-      "variacion": "-0.52%",
-      "variacion_valor": -0.52
+      "precio": "87,700.00",
+      "volumen": "15,339,279,420.00",
+      "variacion": "-1.57%",
+      "variacion_valor": -1.57
     },
     {
-      "nemotecnico": "GRUPOARGOS",
-      "emisor": "GRUPO ARGOS",
-      "precio": "21,300.00",
-      "volumen": "3,863,682,240.00",
-      "variacion": "1.62%",
-      "variacion_valor": 1.62
+      "nemotecnico": "PFGRUPSURA",
+      "emisor": "GRUPO SURA",
+      "precio": "58,500.00",
+      "volumen": "13,919,598,740.00",
+      "variacion": "-0.88%",
+      "variacion_valor": -0.88
+    },
+    {
+      "nemotecnico": "MINEROS",
+      "emisor": "MINEROS",
+      "precio": "22,660.00",
+      "volumen": "13,011,763,120.00",
+      "variacion": "0.62%",
+      "variacion_valor": 0.62
     },
     {
       "nemotecnico": "ISA",
       "emisor": "ISA INTERCONEXION ELECTRICA",
-      "precio": "28,860.00",
-      "volumen": "3,723,895,440.00",
-      "variacion": "0.56%",
-      "variacion_valor": 0.56
-    },
-    {
-      "nemotecnico": "PFDAVIGRP",
-      "emisor": "Davivienda Group",
-      "precio": "40,020.00",
-      "volumen": "3,684,954,160.00",
-      "variacion": "0.05%",
-      "variacion_valor": 0.05
+      "precio": "28,700.00",
+      "volumen": "9,579,698,320.00",
+      "variacion": "-%",
+      "variacion_valor": null
     },
     {
       "nemotecnico": "GRUPOSURA",
       "emisor": "GRUPO SURA",
-      "precio": "67,680.00",
-      "volumen": "3,497,046,320.00",
-      "variacion": "-0.47%",
-      "variacion_valor": -0.47
+      "precio": "67,500.00",
+      "volumen": "4,511,576,120.00",
+      "variacion": "-0.74%",
+      "variacion_valor": -0.74
+    },
+    {
+      "nemotecnico": "GRUPOARGOS",
+      "emisor": "GRUPO ARGOS",
+      "precio": "21,020.00",
+      "volumen": "4,324,512,760.00",
+      "variacion": "0.29%",
+      "variacion_valor": 0.29
+    },
+    {
+      "nemotecnico": "PFDAVIGRP",
+      "emisor": "Davivienda Group",
+      "precio": "40,800.00",
+      "volumen": "3,939,922,640.00",
+      "variacion": "2.00%",
+      "variacion_valor": 2.0
     },
     {
       "nemotecnico": "PFGRUPOARG",
       "emisor": "GRUPO ARGOS",
-      "precio": "16,480.00",
-      "volumen": "2,740,592,080.00",
-      "variacion": "1.48%",
-      "variacion_valor": 1.48
+      "precio": "16,500.00",
+      "volumen": "3,204,825,680.00",
+      "variacion": "1.60%",
+      "variacion_valor": 1.6
     }
   ]
 }
