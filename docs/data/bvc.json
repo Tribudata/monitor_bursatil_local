@@ -2,88 +2,88 @@
   "fuente": "https://www.bvc.com.co/mercado-local-en-linea?tab=renta-variable_mercado-local",
   "fecha_datos": "2026-10-19",
   "origen_fecha": "selector de la BVC",
-  "actualizado": "2026-10-19 14:43",
+  "actualizado": "2026-10-19 18:08",
   "zona_horaria": "America/Bogota",
   "especies": [
     {
       "nemotecnico": "ECOPETROL",
       "emisor": "ECOPETROL",
-      "precio": "2,805.00",
-      "volumen": "36,869,815,660.00",
-      "variacion": "-0.71%",
-      "variacion_valor": -0.71
+      "precio": "2,795.00",
+      "volumen": "40,695,787,130.00",
+      "variacion": "-1.06%",
+      "variacion_valor": -1.06
     },
     {
       "nemotecnico": "PFCIBEST",
       "emisor": "Grupo Cibest S.A.",
-      "precio": "75,500.00",
-      "volumen": "30,718,630,780.00",
-      "variacion": "-2.58%",
-      "variacion_valor": -2.58
+      "precio": "75,600.00",
+      "volumen": "35,113,704,340.00",
+      "variacion": "-2.45%",
+      "variacion_valor": -2.45
     },
     {
       "nemotecnico": "ICOLCAP",
       "emisor": "FONDO BURSATIL ISHARES COLCAP",
       "precio": "25,049.00",
-      "volumen": "12,697,661,091.00",
+      "volumen": "12,698,912,351.00",
       "variacion": "-2.15%",
       "variacion_valor": -2.15
     },
     {
       "nemotecnico": "GRUPOARGOS",
       "emisor": "GRUPO ARGOS",
-      "precio": "20,200.00",
-      "volumen": "6,144,418,320.00",
-      "variacion": "-3.35%",
-      "variacion_valor": -3.35
+      "precio": "20,280.00",
+      "volumen": "9,328,021,600.00",
+      "variacion": "-2.97%",
+      "variacion_valor": -2.97
     },
     {
       "nemotecnico": "GRUPOSURA",
       "emisor": "GRUPO SURA",
-      "precio": "70,480.00",
-      "volumen": "6,001,672,400.00",
-      "variacion": "-0.37%",
-      "variacion_valor": -0.37
+      "precio": "70,000.00",
+      "volumen": "6,545,565,080.00",
+      "variacion": "-1.05%",
+      "variacion_valor": -1.05
     },
     {
       "nemotecnico": "CIBEST",
       "emisor": "Grupo Cibest S.A.",
-      "precio": "88,040.00",
-      "volumen": "4,380,865,720.00",
-      "variacion": "-2.20%",
-      "variacion_valor": -2.2
+      "precio": "88,500.00",
+      "volumen": "5,911,658,740.00",
+      "variacion": "-1.69%",
+      "variacion_valor": -1.69
     },
     {
       "nemotecnico": "PFGRUPSURA",
       "emisor": "GRUPO SURA",
-      "precio": "59,300.00",
-      "volumen": "4,051,168,440.00",
-      "variacion": "-0.84%",
-      "variacion_valor": -0.84
+      "precio": "59,400.00",
+      "volumen": "4,905,930,380.00",
+      "variacion": "-0.67%",
+      "variacion_valor": -0.67
     },
     {
       "nemotecnico": "CEMARGOS",
       "emisor": "CEMENTOS ARGOS",
-      "precio": "11,320.00",
-      "volumen": "3,484,515,200.00",
-      "variacion": "-1.57%",
-      "variacion_valor": -1.57
+      "precio": "11,200.00",
+      "volumen": "3,988,559,600.00",
+      "variacion": "-2.61%",
+      "variacion_valor": -2.61
+    },
+    {
+      "nemotecnico": "PFGRUPOARG",
+      "emisor": "GRUPO ARGOS",
+      "precio": "15,700.00",
+      "volumen": "3,061,730,120.00",
+      "variacion": "-3.56%",
+      "variacion_valor": -3.56
     },
     {
       "nemotecnico": "PEI",
       "emisor": "PEI",
-      "precio": "65,980.00",
-      "volumen": "2,832,198,800.00",
-      "variacion": "-1.26%",
-      "variacion_valor": -1.26
-    },
-    {
-      "nemotecnico": "GEB",
-      "emisor": "GRUPO ENERGIA BOGOTA",
-      "precio": "3,010.00",
-      "volumen": "2,638,938,785.00",
-      "variacion": "0.33%",
-      "variacion_valor": 0.33
+      "precio": "66,600.00",
+      "volumen": "3,057,138,160.00",
+      "variacion": "-0.33%",
+      "variacion_valor": -0.33
     }
   ]
 }
