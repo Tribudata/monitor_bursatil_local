@@ -1,89 +1,89 @@
 {
   "fuente": "https://www.bvc.com.co/mercado-local-en-linea?tab=renta-variable_mercado-local",
-  "fecha_datos": "2026-10-22",
+  "fecha_datos": "2026-10-23",
   "origen_fecha": "selector de la BVC",
-  "actualizado": "2026-10-22 18:59",
+  "actualizado": "2026-10-23 13:15",
   "zona_horaria": "America/Bogota",
   "especies": [
     {
       "nemotecnico": "ECOPETROL",
       "emisor": "ECOPETROL",
-      "precio": "2,700.00",
-      "volumen": "89,954,200,130.00",
-      "variacion": "-1.64%",
-      "variacion_valor": -1.64
+      "precio": "2,785.00",
+      "volumen": "41,206,950,645.00",
+      "variacion": "3.15%",
+      "variacion_valor": 3.15
     },
     {
       "nemotecnico": "PFCIBEST",
       "emisor": "Grupo Cibest S.A.",
-      "precio": "77,100.00",
-      "volumen": "51,460,226,980.00",
-      "variacion": "-1.61%",
-      "variacion_valor": -1.61
-    },
-    {
-      "nemotecnico": "CIBEST",
-      "emisor": "Grupo Cibest S.A.",
-      "precio": "90,680.00",
-      "volumen": "21,224,628,880.00",
-      "variacion": "-2.28%",
-      "variacion_valor": -2.28
-    },
-    {
-      "nemotecnico": "CEMARGOS",
-      "emisor": "CEMENTOS ARGOS",
-      "precio": "11,160.00",
-      "volumen": "7,643,093,340.00",
-      "variacion": "-1.24%",
-      "variacion_valor": -1.24
-    },
-    {
-      "nemotecnico": "GRUPOSURA",
-      "emisor": "GRUPO SURA",
-      "precio": "70,040.00",
-      "volumen": "6,343,866,520.00",
-      "variacion": "-1.35%",
-      "variacion_valor": -1.35
+      "precio": "77,180.00",
+      "volumen": "22,257,143,140.00",
+      "variacion": "0.10%",
+      "variacion_valor": 0.1
     },
     {
       "nemotecnico": "PFGRUPSURA",
       "emisor": "GRUPO SURA",
-      "precio": "58,300.00",
-      "volumen": "6,008,702,820.00",
-      "variacion": "-0.85%",
-      "variacion_valor": -0.85
+      "precio": "58,940.00",
+      "volumen": "20,779,732,860.00",
+      "variacion": "1.10%",
+      "variacion_valor": 1.1
     },
     {
-      "nemotecnico": "PFDAVIGRP",
-      "emisor": "Davivienda Group",
-      "precio": "36,300.00",
-      "volumen": "5,346,215,200.00",
-      "variacion": "-0.55%",
-      "variacion_valor": -0.55
+      "nemotecnico": "GRUPOSURA",
+      "emisor": "GRUPO SURA",
+      "precio": "71,500.00",
+      "volumen": "19,867,764,740.00",
+      "variacion": "2.08%",
+      "variacion_valor": 2.08
     },
     {
-      "nemotecnico": "GRUPOARGOS",
-      "emisor": "GRUPO ARGOS",
-      "precio": "20,760.00",
-      "volumen": "4,771,624,140.00",
-      "variacion": "3.08%",
-      "variacion_valor": 3.08
+      "nemotecnico": "CIBEST",
+      "emisor": "Grupo Cibest S.A.",
+      "precio": "89,620.00",
+      "volumen": "6,293,869,640.00",
+      "variacion": "-1.17%",
+      "variacion_valor": -1.17
     },
     {
-      "nemotecnico": "TERPEL",
-      "emisor": "ORGANIZACION TERPEL",
-      "precio": "18,640.00",
-      "volumen": "4,428,320,120.00",
-      "variacion": "-2.31%",
-      "variacion_valor": -2.31
+      "nemotecnico": "ICOLCAP",
+      "emisor": "FONDO BURSATIL ISHARES COLCAP",
+      "precio": "25,150.00",
+      "volumen": "3,570,328,702.50",
+      "variacion": "0.15%",
+      "variacion_valor": 0.15
+    },
+    {
+      "nemotecnico": "ISA",
+      "emisor": "ISA INTERCONEXION ELECTRICA",
+      "precio": "28,680.00",
+      "volumen": "2,659,419,800.00",
+      "variacion": "0.63%",
+      "variacion_valor": 0.63
     },
     {
       "nemotecnico": "PFGRUPOARG",
       "emisor": "GRUPO ARGOS",
-      "precio": "15,920.00",
-      "volumen": "3,967,115,620.00",
-      "variacion": "-0.50%",
-      "variacion_valor": -0.5
+      "precio": "15,860.00",
+      "volumen": "2,017,528,880.00",
+      "variacion": "-0.38%",
+      "variacion_valor": -0.38
+    },
+    {
+      "nemotecnico": "PFAVAL",
+      "emisor": "GRUPO AVAL ACCIONES Y VALORES",
+      "precio": "763.00",
+      "volumen": "1,743,639,704.00",
+      "variacion": "0.26%",
+      "variacion_valor": 0.26
+    },
+    {
+      "nemotecnico": "TERPEL",
+      "emisor": "ORGANIZACION TERPEL",
+      "precio": "18,680.00",
+      "volumen": "1,447,404,240.00",
+      "variacion": "0.21%",
+      "variacion_valor": 0.21
     }
   ]
 }
