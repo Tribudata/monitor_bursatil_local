@@ -1,17 +1,89 @@
 {
   "fuente": "https://www.bvc.com.co/mercado-local-en-linea?tab=renta-variable_mercado-local",
-  "fecha_datos": "2026-10-25",
+  "fecha_datos": "2026-10-26",
   "origen_fecha": "selector de la BVC",
-  "actualizado": "2026-10-25 11:53",
+  "actualizado": "2026-10-26 14:47",
   "zona_horaria": "America/Bogota",
   "especies": [
     {
-      "nemotecnico": "Hoy es un día no bursátil\n\nNo hay cifras para mostrarte porque no hay movimientos en el mercado.",
-      "emisor": "",
-      "precio": "",
-      "volumen": "",
-      "variacion": "—",
+      "nemotecnico": "ECOPETROL",
+      "emisor": "ECOPETROL",
+      "precio": "2,745.00",
+      "volumen": "41,584,304,785.00",
+      "variacion": "-1.79%",
+      "variacion_valor": -1.79
+    },
+    {
+      "nemotecnico": "PFCIBEST",
+      "emisor": "Grupo Cibest S.A.",
+      "precio": "75,300.00",
+      "volumen": "35,038,480,620.00",
+      "variacion": "-1.95%",
+      "variacion_valor": -1.95
+    },
+    {
+      "nemotecnico": "PFGRUPSURA",
+      "emisor": "GRUPO SURA",
+      "precio": "58,660.00",
+      "volumen": "8,242,190,480.00",
+      "variacion": "-1.31%",
+      "variacion_valor": -1.31
+    },
+    {
+      "nemotecnico": "CIBEST",
+      "emisor": "Grupo Cibest S.A.",
+      "precio": "87,680.00",
+      "volumen": "6,430,426,360.00",
+      "variacion": "-2.45%",
+      "variacion_valor": -2.45
+    },
+    {
+      "nemotecnico": "GRUPOSURA",
+      "emisor": "GRUPO SURA",
+      "precio": "70,940.00",
+      "volumen": "5,604,991,460.00",
+      "variacion": "0.74%",
+      "variacion_valor": 0.74
+    },
+    {
+      "nemotecnico": "PFGRUPOARG",
+      "emisor": "GRUPO ARGOS",
+      "precio": "15,560.00",
+      "volumen": "4,184,730,600.00",
+      "variacion": "-1.39%",
+      "variacion_valor": -1.39
+    },
+    {
+      "nemotecnico": "ISA",
+      "emisor": "ISA INTERCONEXION ELECTRICA",
+      "precio": "28,180.00",
+      "volumen": "4,054,416,600.00",
+      "variacion": "-2.83%",
+      "variacion_valor": -2.83
+    },
+    {
+      "nemotecnico": "CEMARGOS",
+      "emisor": "CEMENTOS ARGOS",
+      "precio": "10,860.00",
+      "volumen": "4,026,120,600.00",
+      "variacion": "-3.04%",
+      "variacion_valor": -3.04
+    },
+    {
+      "nemotecnico": "GRUPOARGOS",
+      "emisor": "GRUPO ARGOS",
+      "precio": "20,640.00",
+      "volumen": "2,172,004,260.00",
+      "variacion": "-%",
       "variacion_valor": null
+    },
+    {
+      "nemotecnico": "ICOLCAP",
+      "emisor": "FONDO BURSATIL ISHARES COLCAP",
+      "precio": "24,670.00",
+      "volumen": "2,104,338,573.00",
+      "variacion": "-2.11%",
+      "variacion_valor": -2.11
     }
   ]
 }
