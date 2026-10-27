@@ -2,88 +2,88 @@
   "fuente": "https://www.bvc.com.co/mercado-local-en-linea?tab=renta-variable_mercado-local",
   "fecha_datos": "2026-10-27",
   "origen_fecha": "selector de la BVC",
-  "actualizado": "2026-10-27 14:17",
+  "actualizado": "2026-10-27 18:00",
   "zona_horaria": "America/Bogota",
   "especies": [
     {
+      "nemotecnico": "PFCIBEST",
+      "emisor": "Grupo Cibest S.A.",
+      "precio": "75,440.00",
+      "volumen": "34,803,711,540.00",
+      "variacion": "-0.71%",
+      "variacion_valor": -0.71
+    },
+    {
       "nemotecnico": "GRUPOSURA",
       "emisor": "GRUPO SURA",
-      "precio": "71,840.00",
-      "volumen": "24,638,695,960.00",
-      "variacion": "1.84%",
-      "variacion_valor": 1.84
+      "precio": "72,560.00",
+      "volumen": "33,651,798,200.00",
+      "variacion": "2.86%",
+      "variacion_valor": 2.86
     },
     {
       "nemotecnico": "ECOPETROL",
       "emisor": "ECOPETROL",
-      "precio": "2,725.00",
-      "volumen": "24,406,008,010.00",
-      "variacion": "-0.91%",
-      "variacion_valor": -0.91
-    },
-    {
-      "nemotecnico": "PFCIBEST",
-      "emisor": "Grupo Cibest S.A.",
-      "precio": "76,080.00",
-      "volumen": "18,664,677,080.00",
-      "variacion": "0.13%",
-      "variacion_valor": 0.13
-    },
-    {
-      "nemotecnico": "PFGRUPOARG",
-      "emisor": "GRUPO ARGOS",
-      "precio": "15,680.00",
-      "volumen": "7,446,563,040.00",
-      "variacion": "-0.51%",
-      "variacion_valor": -0.51
-    },
-    {
-      "nemotecnico": "CIBEST",
-      "emisor": "Grupo Cibest S.A.",
-      "precio": "87,800.00",
-      "volumen": "7,351,121,380.00",
-      "variacion": "-%",
-      "variacion_valor": null
-    },
-    {
-      "nemotecnico": "PFGRUPSURA",
-      "emisor": "GRUPO SURA",
-      "precio": "59,680.00",
-      "volumen": "4,763,761,460.00",
-      "variacion": "0.64%",
-      "variacion_valor": 0.64
-    },
-    {
-      "nemotecnico": "ISA",
-      "emisor": "ISA INTERCONEXION ELECTRICA",
-      "precio": "27,940.00",
-      "volumen": "4,352,164,920.00",
+      "precio": "2,715.00",
+      "volumen": "27,883,992,915.00",
       "variacion": "-1.27%",
       "variacion_valor": -1.27
     },
     {
-      "nemotecnico": "GRUPOARGOS",
-      "emisor": "GRUPO ARGOS",
-      "precio": "20,660.00",
-      "volumen": "2,167,099,200.00",
-      "variacion": "0.58%",
-      "variacion_valor": 0.58
+      "nemotecnico": "CIBEST",
+      "emisor": "Grupo Cibest S.A.",
+      "precio": "88,400.00",
+      "volumen": "22,644,357,940.00",
+      "variacion": "0.68%",
+      "variacion_valor": 0.68
     },
     {
-      "nemotecnico": "ICOLCAP",
-      "emisor": "FONDO BURSATIL ISHARES COLCAP",
-      "precio": "24,870.00",
-      "volumen": "2,103,838,227.00",
-      "variacion": "0.81%",
-      "variacion_valor": 0.81
+      "nemotecnico": "PFGRUPOARG",
+      "emisor": "GRUPO ARGOS",
+      "precio": "15,740.00",
+      "volumen": "8,134,681,120.00",
+      "variacion": "-0.13%",
+      "variacion_valor": -0.13
+    },
+    {
+      "nemotecnico": "ISA",
+      "emisor": "ISA INTERCONEXION ELECTRICA",
+      "precio": "28,080.00",
+      "volumen": "6,528,462,100.00",
+      "variacion": "-0.78%",
+      "variacion_valor": -0.78
+    },
+    {
+      "nemotecnico": "PFGRUPSURA",
+      "emisor": "GRUPO SURA",
+      "precio": "59,360.00",
+      "volumen": "5,877,369,220.00",
+      "variacion": "0.10%",
+      "variacion_valor": 0.1
+    },
+    {
+      "nemotecnico": "GRUPOARGOS",
+      "emisor": "GRUPO ARGOS",
+      "precio": "20,300.00",
+      "volumen": "2,980,848,100.00",
+      "variacion": "-1.17%",
+      "variacion_valor": -1.17
     },
     {
       "nemotecnico": "CEMARGOS",
       "emisor": "CEMENTOS ARGOS",
-      "precio": "10,900.00",
-      "volumen": "2,059,256,000.00",
-      "variacion": "-0.37%",
-      "variacion_valor": -0.37
+      "precio": "10,840.00",
+      "volumen": "2,324,944,780.00",
+      "variacion": "-0.91%",
+      "variacion_valor": -0.91
+    },
+    {
+      "nemotecnico": "MINEROS",
+      "emisor": "MINEROS",
+      "precio": "19,800.00",
+      "volumen": "2,246,988,760.00",
+      "variacion": "2.91%",
+      "variacion_valor": 2.91
     }
   ]
 }
