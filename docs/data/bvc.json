@@ -1,89 +1,89 @@
 {
   "fuente": "https://www.bvc.com.co/mercado-local-en-linea?tab=renta-variable_mercado-local",
-  "fecha_datos": "2026-10-29",
+  "fecha_datos": "2026-10-30",
   "origen_fecha": "selector de la BVC",
-  "actualizado": "2026-10-29 19:59",
+  "actualizado": "2026-10-30 14:03",
   "zona_horaria": "America/Bogota",
   "especies": [
     {
       "nemotecnico": "ECOPETROL",
       "emisor": "ECOPETROL",
-      "precio": "2,720.00",
-      "volumen": "60,614,919,810.00",
-      "variacion": "-2.16%",
-      "variacion_valor": -2.16
+      "precio": "2,755.00",
+      "volumen": "101,272,895,265.00",
+      "variacion": "1.29%",
+      "variacion_valor": 1.29
     },
     {
       "nemotecnico": "PFCIBEST",
       "emisor": "Grupo Cibest S.A.",
-      "precio": "74,020.00",
-      "volumen": "20,350,575,700.00",
-      "variacion": "-1.60%",
-      "variacion_valor": -1.6
+      "precio": "74,220.00",
+      "volumen": "20,519,541,620.00",
+      "variacion": "0.27%",
+      "variacion_valor": 0.27
     },
     {
       "nemotecnico": "GRUPOSURA",
       "emisor": "GRUPO SURA",
-      "precio": "74,000.00",
-      "volumen": "13,931,343,960.00",
-      "variacion": "0.68%",
-      "variacion_valor": 0.68
+      "precio": "74,800.00",
+      "volumen": "7,665,371,800.00",
+      "variacion": "1.08%",
+      "variacion_valor": 1.08
     },
     {
       "nemotecnico": "PFGRUPSURA",
       "emisor": "GRUPO SURA",
-      "precio": "58,980.00",
-      "volumen": "11,806,104,240.00",
-      "variacion": "-%",
-      "variacion_valor": null
-    },
-    {
-      "nemotecnico": "CEMARGOS",
-      "emisor": "CEMENTOS ARGOS",
-      "precio": "10,640.00",
-      "volumen": "4,955,686,000.00",
-      "variacion": "-%",
-      "variacion_valor": null
-    },
-    {
-      "nemotecnico": "CIBEST",
-      "emisor": "Grupo Cibest S.A.",
-      "precio": "88,260.00",
-      "volumen": "4,061,619,580.00",
-      "variacion": "-0.81%",
-      "variacion_valor": -0.81
-    },
-    {
-      "nemotecnico": "TERPEL",
-      "emisor": "ORGANIZACION TERPEL",
-      "precio": "18,480.00",
-      "volumen": "2,218,986,560.00",
-      "variacion": "4.29%",
-      "variacion_valor": 4.29
+      "precio": "58,660.00",
+      "volumen": "6,643,355,600.00",
+      "variacion": "-0.54%",
+      "variacion_valor": -0.54
     },
     {
       "nemotecnico": "GRUPOARGOS",
       "emisor": "GRUPO ARGOS",
-      "precio": "20,220.00",
-      "volumen": "1,944,472,360.00",
-      "variacion": "-1.37%",
-      "variacion_valor": -1.37
+      "precio": "20,460.00",
+      "volumen": "5,995,990,800.00",
+      "variacion": "1.19%",
+      "variacion_valor": 1.19
+    },
+    {
+      "nemotecnico": "CEMARGOS",
+      "emisor": "CEMENTOS ARGOS",
+      "precio": "10,740.00",
+      "volumen": "5,027,042,440.00",
+      "variacion": "0.94%",
+      "variacion_valor": 0.94
     },
     {
       "nemotecnico": "ISA",
       "emisor": "ISA INTERCONEXION ELECTRICA",
-      "precio": "27,800.00",
-      "volumen": "1,893,416,580.00",
-      "variacion": "1.09%",
-      "variacion_valor": 1.09
+      "precio": "27,720.00",
+      "volumen": "3,860,788,380.00",
+      "variacion": "-0.29%",
+      "variacion_valor": -0.29
     },
     {
-      "nemotecnico": "TEVAICOL",
-      "emisor": "FONDO BURSATIL BTG PACTUAL TEVA,[object Object],EQUITY COLOMBIA",
-      "precio": "26,526.00",
-      "volumen": "1,724,190,000.00",
-      "variacion": "0.38%",
-      "variacion_valor": 0.38
+      "nemotecnico": "CIBEST",
+      "emisor": "Grupo Cibest S.A.",
+      "precio": "87,900.00",
+      "volumen": "1,921,806,760.00",
+      "variacion": "-0.41%",
+      "variacion_valor": -0.41
+    },
+    {
+      "nemotecnico": "PFGRUPOARG",
+      "emisor": "GRUPO ARGOS",
+      "precio": "15,420.00",
+      "volumen": "1,451,899,440.00",
+      "variacion": "-%",
+      "variacion_valor": null
+    },
+    {
+      "nemotecnico": "PEI",
+      "emisor": "PEI",
+      "precio": "65,340.00",
+      "volumen": "1,067,511,840.00",
+      "variacion": "-1.06%",
+      "variacion_valor": -1.06
     }
   ]
 }
