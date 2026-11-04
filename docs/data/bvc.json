@@ -1,89 +1,89 @@
 {
   "fuente": "https://www.bvc.com.co/mercado-local-en-linea?tab=renta-variable_mercado-local",
-  "fecha_datos": "2026-11-03",
+  "fecha_datos": "2026-11-04",
   "origen_fecha": "selector de la BVC",
-  "actualizado": "2026-11-03 20:20",
+  "actualizado": "2026-11-04 15:42",
   "zona_horaria": "America/Bogota",
   "especies": [
     {
       "nemotecnico": "ECOPETROL",
       "emisor": "ECOPETROL",
-      "precio": "2,695.00",
-      "volumen": "89,770,471,310.00",
-      "variacion": "-3.06%",
-      "variacion_valor": -3.06
+      "precio": "2,570.00",
+      "volumen": "127,561,155,255.00",
+      "variacion": "-4.64%",
+      "variacion_valor": -4.64
     },
     {
       "nemotecnico": "PFCIBEST",
       "emisor": "Grupo Cibest S.A.",
-      "precio": "75,820.00",
-      "volumen": "41,486,662,300.00",
-      "variacion": "1.80%",
-      "variacion_valor": 1.8
+      "precio": "75,600.00",
+      "volumen": "24,716,327,620.00",
+      "variacion": "-0.29%",
+      "variacion_valor": -0.29
     },
     {
-      "nemotecnico": "GRUPOSURA",
-      "emisor": "GRUPO SURA",
-      "precio": "78,000.00",
-      "volumen": "21,192,636,780.00",
-      "variacion": "4.56%",
-      "variacion_valor": 4.56
-    },
-    {
-      "nemotecnico": "ISA",
-      "emisor": "ISA INTERCONEXION ELECTRICA",
-      "precio": "27,940.00",
-      "volumen": "13,697,249,720.00",
-      "variacion": "2.65%",
-      "variacion_valor": 2.65
+      "nemotecnico": "ICOLCAP",
+      "emisor": "FONDO BURSATIL ISHARES COLCAP",
+      "precio": "24,715.00",
+      "volumen": "9,327,305,170.00",
+      "variacion": "0.40%",
+      "variacion_valor": 0.4
     },
     {
       "nemotecnico": "CIBEST",
       "emisor": "Grupo Cibest S.A.",
-      "precio": "90,480.00",
-      "volumen": "11,498,202,760.00",
-      "variacion": "3.05%",
-      "variacion_valor": 3.05
-    },
-    {
-      "nemotecnico": "GRUPOARGOS",
-      "emisor": "GRUPO ARGOS",
-      "precio": "20,880.00",
-      "volumen": "11,452,648,800.00",
-      "variacion": "2.25%",
-      "variacion_valor": 2.25
-    },
-    {
-      "nemotecnico": "PFGRUPSURA",
-      "emisor": "GRUPO SURA",
-      "precio": "59,200.00",
-      "volumen": "7,603,153,440.00",
-      "variacion": "0.54%",
-      "variacion_valor": 0.54
-    },
-    {
-      "nemotecnico": "PFGRUPOARG",
-      "emisor": "GRUPO ARGOS",
-      "precio": "15,720.00",
-      "volumen": "3,584,212,640.00",
-      "variacion": "0.77%",
-      "variacion_valor": 0.77
+      "precio": "89,160.00",
+      "volumen": "8,328,252,340.00",
+      "variacion": "-1.46%",
+      "variacion_valor": -1.46
     },
     {
       "nemotecnico": "CEMARGOS",
       "emisor": "CEMENTOS ARGOS",
-      "precio": "11,040.00",
-      "volumen": "3,581,787,680.00",
-      "variacion": "3.18%",
-      "variacion_valor": 3.18
+      "precio": "11,260.00",
+      "volumen": "6,600,725,040.00",
+      "variacion": "1.99%",
+      "variacion_valor": 1.99
     },
     {
-      "nemotecnico": "MINEROS",
-      "emisor": "MINEROS",
-      "precio": "20,480.00",
-      "volumen": "1,371,540,260.00",
-      "variacion": "2.40%",
-      "variacion_valor": 2.4
+      "nemotecnico": "GRUPOSURA",
+      "emisor": "GRUPO SURA",
+      "precio": "77,140.00",
+      "volumen": "6,059,151,960.00",
+      "variacion": "-1.10%",
+      "variacion_valor": -1.1
+    },
+    {
+      "nemotecnico": "GRUPOARGOS",
+      "emisor": "GRUPO ARGOS",
+      "precio": "20,340.00",
+      "volumen": "5,178,872,180.00",
+      "variacion": "-2.59%",
+      "variacion_valor": -2.59
+    },
+    {
+      "nemotecnico": "PFGRUPOARG",
+      "emisor": "GRUPO ARGOS",
+      "precio": "15,740.00",
+      "volumen": "5,109,863,080.00",
+      "variacion": "0.13%",
+      "variacion_valor": 0.13
+    },
+    {
+      "nemotecnico": "PFGRUPSURA",
+      "emisor": "GRUPO SURA",
+      "precio": "58,180.00",
+      "volumen": "5,087,818,560.00",
+      "variacion": "-1.72%",
+      "variacion_valor": -1.72
+    },
+    {
+      "nemotecnico": "ISA",
+      "emisor": "ISA INTERCONEXION ELECTRICA",
+      "precio": "27,600.00",
+      "volumen": "4,247,622,800.00",
+      "variacion": "-1.22%",
+      "variacion_valor": -1.22
     }
   ]
 }
