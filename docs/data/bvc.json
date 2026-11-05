@@ -1,89 +1,89 @@
 {
   "fuente": "https://www.bvc.com.co/mercado-local-en-linea?tab=renta-variable_mercado-local",
-  "fecha_datos": "2026-11-04",
+  "fecha_datos": "2026-11-05",
   "origen_fecha": "selector de la BVC",
-  "actualizado": "2026-11-04 20:27",
+  "actualizado": "2026-11-05 15:58",
   "zona_horaria": "America/Bogota",
   "especies": [
     {
       "nemotecnico": "ECOPETROL",
       "emisor": "ECOPETROL",
-      "precio": "2,555.00",
-      "volumen": "137,582,403,925.00",
-      "variacion": "-5.19%",
-      "variacion_valor": -5.19
-    },
-    {
-      "nemotecnico": "PFCIBEST",
-      "emisor": "Grupo Cibest S.A.",
-      "precio": "75,620.00",
-      "volumen": "39,542,552,220.00",
-      "variacion": "-0.26%",
-      "variacion_valor": -0.26
-    },
-    {
-      "nemotecnico": "CIBEST",
-      "emisor": "Grupo Cibest S.A.",
-      "precio": "91,440.00",
-      "volumen": "13,996,325,440.00",
-      "variacion": "1.06%",
-      "variacion_valor": 1.06
-    },
-    {
-      "nemotecnico": "ICOLCAP",
-      "emisor": "FONDO BURSATIL ISHARES COLCAP",
-      "precio": "24,720.50",
-      "volumen": "9,328,912,226.00",
-      "variacion": "0.42%",
-      "variacion_valor": 0.42
-    },
-    {
-      "nemotecnico": "ISA",
-      "emisor": "ISA INTERCONEXION ELECTRICA",
-      "precio": "27,760.00",
-      "volumen": "9,061,882,020.00",
-      "variacion": "-0.64%",
-      "variacion_valor": -0.64
+      "precio": "2,550.00",
+      "volumen": "112,140,687,050.00",
+      "variacion": "-0.20%",
+      "variacion_valor": -0.2
     },
     {
       "nemotecnico": "GRUPOSURA",
       "emisor": "GRUPO SURA",
-      "precio": "76,700.00",
-      "volumen": "8,666,131,560.00",
-      "variacion": "-1.67%",
-      "variacion_valor": -1.67
+      "precio": "76,900.00",
+      "volumen": "34,283,096,200.00",
+      "variacion": "0.26%",
+      "variacion_valor": 0.26
     },
     {
-      "nemotecnico": "GRUPOARGOS",
-      "emisor": "GRUPO ARGOS",
-      "precio": "20,360.00",
-      "volumen": "7,768,142,680.00",
-      "variacion": "-2.49%",
-      "variacion_valor": -2.49
-    },
-    {
-      "nemotecnico": "PFGRUPOARG",
-      "emisor": "GRUPO ARGOS",
-      "precio": "15,700.00",
-      "volumen": "7,617,425,480.00",
-      "variacion": "-0.13%",
-      "variacion_valor": -0.13
+      "nemotecnico": "PFCIBEST",
+      "emisor": "Grupo Cibest S.A.",
+      "precio": "74,740.00",
+      "volumen": "13,387,533,920.00",
+      "variacion": "-1.16%",
+      "variacion_valor": -1.16
     },
     {
       "nemotecnico": "CEMARGOS",
       "emisor": "CEMENTOS ARGOS",
-      "precio": "11,020.00",
-      "volumen": "7,581,109,820.00",
-      "variacion": "-0.18%",
-      "variacion_valor": -0.18
+      "precio": "10,680.00",
+      "volumen": "10,240,018,380.00",
+      "variacion": "-3.09%",
+      "variacion_valor": -3.09
     },
     {
       "nemotecnico": "PFGRUPSURA",
       "emisor": "GRUPO SURA",
-      "precio": "58,000.00",
-      "volumen": "6,510,727,940.00",
-      "variacion": "-2.03%",
-      "variacion_valor": -2.03
+      "precio": "58,620.00",
+      "volumen": "8,905,937,900.00",
+      "variacion": "1.07%",
+      "variacion_valor": 1.07
+    },
+    {
+      "nemotecnico": "GRUPOARGOS",
+      "emisor": "GRUPO ARGOS",
+      "precio": "19,640.00",
+      "volumen": "6,343,467,820.00",
+      "variacion": "-3.54%",
+      "variacion_valor": -3.54
+    },
+    {
+      "nemotecnico": "CIBEST",
+      "emisor": "Grupo Cibest S.A.",
+      "precio": "89,040.00",
+      "volumen": "6,209,058,660.00",
+      "variacion": "-2.62%",
+      "variacion_valor": -2.62
+    },
+    {
+      "nemotecnico": "PFGRUPOARG",
+      "emisor": "GRUPO ARGOS",
+      "precio": "15,520.00",
+      "volumen": "4,562,785,460.00",
+      "variacion": "-1.15%",
+      "variacion_valor": -1.15
+    },
+    {
+      "nemotecnico": "MINEROS",
+      "emisor": "MINEROS",
+      "precio": "22,280.00",
+      "volumen": "3,968,212,780.00",
+      "variacion": "1.27%",
+      "variacion_valor": 1.27
+    },
+    {
+      "nemotecnico": "PFAVAL",
+      "emisor": "GRUPO AVAL ACCIONES Y VALORES",
+      "precio": "695.00",
+      "volumen": "3,353,820,155.00",
+      "variacion": "-1.70%",
+      "variacion_valor": -1.7
     }
   ]
 }
