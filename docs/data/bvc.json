@@ -1,89 +1,89 @@
 {
   "fuente": "https://www.bvc.com.co/mercado-local-en-linea?tab=renta-variable_mercado-local",
-  "fecha_datos": "2026-11-17",
+  "fecha_datos": "2026-11-18",
   "origen_fecha": "selector de la BVC",
-  "actualizado": "2026-11-17 21:54",
+  "actualizado": "2026-11-18 16:50",
   "zona_horaria": "America/Bogota",
   "especies": [
     {
       "nemotecnico": "ECOPETROL",
       "emisor": "ECOPETROL",
-      "precio": "2,465.00",
-      "volumen": "54,102,925,195.00",
-      "variacion": "-3.71%",
-      "variacion_valor": -3.71
+      "precio": "2,375.00",
+      "volumen": "78,647,472,025.00",
+      "variacion": "-3.65%",
+      "variacion_valor": -3.65
     },
     {
       "nemotecnico": "PFCIBEST",
       "emisor": "Grupo Cibest S.A.",
-      "precio": "72,200.00",
-      "volumen": "39,923,059,380.00",
-      "variacion": "-2.43%",
-      "variacion_valor": -2.43
+      "precio": "71,980.00",
+      "volumen": "52,907,299,740.00",
+      "variacion": "-0.30%",
+      "variacion_valor": -0.3
     },
     {
       "nemotecnico": "CIBEST",
       "emisor": "Grupo Cibest S.A.",
-      "precio": "82,000.00",
-      "volumen": "15,826,898,380.00",
-      "variacion": "-3.53%",
-      "variacion_valor": -3.53
+      "precio": "80,440.00",
+      "volumen": "31,176,242,420.00",
+      "variacion": "-1.90%",
+      "variacion_valor": -1.9
     },
     {
       "nemotecnico": "GRUPOSURA",
       "emisor": "GRUPO SURA",
-      "precio": "76,000.00",
-      "volumen": "10,743,033,000.00",
-      "variacion": "-0.50%",
-      "variacion_valor": -0.5
-    },
-    {
-      "nemotecnico": "ISA",
-      "emisor": "ISA INTERCONEXION ELECTRICA",
-      "precio": "26,600.00",
-      "volumen": "9,261,861,160.00",
-      "variacion": "-2.92%",
-      "variacion_valor": -2.92
-    },
-    {
-      "nemotecnico": "PFGRUPSURA",
-      "emisor": "GRUPO SURA",
-      "precio": "56,200.00",
-      "volumen": "5,449,877,540.00",
-      "variacion": "-1.40%",
-      "variacion_valor": -1.4
-    },
-    {
-      "nemotecnico": "GRUPOARGOS",
-      "emisor": "GRUPO ARGOS",
-      "precio": "20,780.00",
-      "volumen": "3,924,339,940.00",
-      "variacion": "0.87%",
-      "variacion_valor": 0.87
-    },
-    {
-      "nemotecnico": "PFGRUPOARG",
-      "emisor": "GRUPO ARGOS",
-      "precio": "15,100.00",
-      "volumen": "3,049,637,520.00",
-      "variacion": "-3.21%",
-      "variacion_valor": -3.21
+      "precio": "75,980.00",
+      "volumen": "15,839,267,160.00",
+      "variacion": "-0.03%",
+      "variacion_valor": -0.03
     },
     {
       "nemotecnico": "ICOLCAP",
       "emisor": "FONDO BURSATIL ISHARES COLCAP",
-      "precio": "23,760.50",
-      "volumen": "2,951,443,382.00",
-      "variacion": "-1.61%",
-      "variacion_valor": -1.61
+      "precio": "23,220.50",
+      "volumen": "8,212,833,228.00",
+      "variacion": "-2.27%",
+      "variacion_valor": -2.27
     },
     {
-      "nemotecnico": "PFAVAL",
-      "emisor": "GRUPO AVAL ACCIONES Y VALORES",
-      "precio": "650.00",
-      "volumen": "2,702,489,450.00",
-      "variacion": "-5.80%",
-      "variacion_valor": -5.8
+      "nemotecnico": "GRUPOARGOS",
+      "emisor": "GRUPO ARGOS",
+      "precio": "19,460.00",
+      "volumen": "8,082,489,140.00",
+      "variacion": "-6.35%",
+      "variacion_valor": -6.35
+    },
+    {
+      "nemotecnico": "PFGRUPSURA",
+      "emisor": "GRUPO SURA",
+      "precio": "55,000.00",
+      "volumen": "5,294,706,760.00",
+      "variacion": "-2.14%",
+      "variacion_valor": -2.14
+    },
+    {
+      "nemotecnico": "ISA",
+      "emisor": "ISA INTERCONEXION ELECTRICA",
+      "precio": "24,520.00",
+      "volumen": "5,179,560,700.00",
+      "variacion": "-7.82%",
+      "variacion_valor": -7.82
+    },
+    {
+      "nemotecnico": "PFGRUPOARG",
+      "emisor": "GRUPO ARGOS",
+      "precio": "14,800.00",
+      "volumen": "3,588,199,140.00",
+      "variacion": "-1.99%",
+      "variacion_valor": -1.99
+    },
+    {
+      "nemotecnico": "CEMARGOS",
+      "emisor": "CEMENTOS ARGOS",
+      "precio": "10,100.00",
+      "volumen": "3,521,428,980.00",
+      "variacion": "-3.81%",
+      "variacion_valor": -3.81
     }
   ]
 }
