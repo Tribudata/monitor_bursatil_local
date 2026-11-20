@@ -1,89 +1,89 @@
 {
   "fuente": "https://www.bvc.com.co/mercado-local-en-linea?tab=renta-variable_mercado-local",
-  "fecha_datos": "2026-11-19",
+  "fecha_datos": "2026-11-20",
   "origen_fecha": "selector de la BVC",
-  "actualizado": "2026-11-19 21:19",
+  "actualizado": "2026-11-20 16:43",
   "zona_horaria": "America/Bogota",
   "especies": [
     {
-      "nemotecnico": "CEMARGOS",
-      "emisor": "CEMENTOS ARGOS",
-      "precio": "9,700.00",
-      "volumen": "339,579,061,600.00",
-      "variacion": "-3.96%",
-      "variacion_valor": -3.96
-    },
-    {
       "nemotecnico": "ECOPETROL",
       "emisor": "ECOPETROL",
-      "precio": "2,275.00",
-      "volumen": "68,965,323,610.00",
-      "variacion": "-4.21%",
-      "variacion_valor": -4.21
-    },
-    {
-      "nemotecnico": "GRUPOSURA",
-      "emisor": "GRUPO SURA",
-      "precio": "76,480.00",
-      "volumen": "33,975,316,920.00",
-      "variacion": "0.66%",
-      "variacion_valor": 0.66
+      "precio": "2,315.00",
+      "volumen": "98,966,327,780.00",
+      "variacion": "1.76%",
+      "variacion_valor": 1.76
     },
     {
       "nemotecnico": "PFCIBEST",
       "emisor": "Grupo Cibest S.A.",
       "precio": "71,000.00",
-      "volumen": "33,149,806,360.00",
-      "variacion": "-1.36%",
-      "variacion_valor": -1.36
+      "volumen": "48,855,580,980.00",
+      "variacion": "-%",
+      "variacion_valor": null
     },
     {
-      "nemotecnico": "PFGRUPSURA",
+      "nemotecnico": "GRUPOSURA",
       "emisor": "GRUPO SURA",
-      "precio": "56,100.00",
-      "volumen": "26,114,932,460.00",
-      "variacion": "2.00%",
-      "variacion_valor": 2.0
-    },
-    {
-      "nemotecnico": "GRUPOARGOS",
-      "emisor": "GRUPO ARGOS",
-      "precio": "19,680.00",
-      "volumen": "9,084,407,900.00",
-      "variacion": "1.13%",
-      "variacion_valor": 1.13
+      "precio": "81,840.00",
+      "volumen": "33,014,454,460.00",
+      "variacion": "7.01%",
+      "variacion_valor": 7.01
     },
     {
       "nemotecnico": "CIBEST",
       "emisor": "Grupo Cibest S.A.",
-      "precio": "80,000.00",
-      "volumen": "8,960,736,960.00",
-      "variacion": "-0.55%",
-      "variacion_valor": -0.55
+      "precio": "80,500.00",
+      "volumen": "14,593,404,860.00",
+      "variacion": "0.63%",
+      "variacion_valor": 0.63
+    },
+    {
+      "nemotecnico": "CEMARGOS",
+      "emisor": "CEMENTOS ARGOS",
+      "precio": "9,500.00",
+      "volumen": "13,932,868,670.00",
+      "variacion": "-2.06%",
+      "variacion_valor": -2.06
     },
     {
       "nemotecnico": "ISA",
       "emisor": "ISA INTERCONEXION ELECTRICA",
-      "precio": "24,500.00",
-      "volumen": "8,538,911,160.00",
-      "variacion": "-0.08%",
-      "variacion_valor": -0.08
+      "precio": "23,200.00",
+      "volumen": "9,804,458,420.00",
+      "variacion": "-5.31%",
+      "variacion_valor": -5.31
     },
     {
       "nemotecnico": "ICOLCAP",
       "emisor": "FONDO BURSATIL ISHARES COLCAP",
-      "precio": "23,006.00",
-      "volumen": "6,893,638,211.00",
-      "variacion": "-0.92%",
-      "variacion_valor": -0.92
+      "precio": "22,924.00",
+      "volumen": "8,243,277,727.00",
+      "variacion": "-0.36%",
+      "variacion_valor": -0.36
+    },
+    {
+      "nemotecnico": "GRUPOARGOS",
+      "emisor": "GRUPO ARGOS",
+      "precio": "18,420.00",
+      "volumen": "7,839,458,880.00",
+      "variacion": "-6.40%",
+      "variacion_valor": -6.4
+    },
+    {
+      "nemotecnico": "PFGRUPSURA",
+      "emisor": "GRUPO SURA",
+      "precio": "55,800.00",
+      "volumen": "6,886,912,640.00",
+      "variacion": "-0.53%",
+      "variacion_valor": -0.53
     },
     {
       "nemotecnico": "PFGRUPOARG",
       "emisor": "GRUPO ARGOS",
-      "precio": "15,380.00",
-      "volumen": "4,815,221,440.00",
-      "variacion": "3.92%",
-      "variacion_valor": 3.92
+      "precio": "14,640.00",
+      "volumen": "5,050,070,460.00",
+      "variacion": "-4.81%",
+      "variacion_valor": -4.81
     }
   ]
 }
