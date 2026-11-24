@@ -1,15 +1,87 @@
 {
   "fuente": "https://www.bvc.com.co/mercado-local-en-linea?tab=renta-variable_mercado-local",
-  "fecha_datos": "2026-11-22",
+  "fecha_datos": "2026-11-23",
   "origen_fecha": "selector de la BVC",
-  "actualizado": "2026-11-22 15:00",
+  "actualizado": "2026-11-23 20:31",
   "zona_horaria": "America/Bogota",
   "especies": [
     {
-      "nemotecnico": "Hoy es un día no bursátil\n\nNo hay cifras para mostrarte porque no hay movimientos en el mercado.",
-      "emisor": "",
-      "precio": "",
-      "volumen": "",
+      "nemotecnico": "ECOPETROL",
+      "emisor": "-",
+      "precio": "2,340.00",
+      "volumen": "53,562,710,665.00",
+      "variacion": "—",
+      "variacion_valor": null
+    },
+    {
+      "nemotecnico": "PFCIBEST",
+      "emisor": "-",
+      "precio": "73,620.00",
+      "volumen": "49,832,443,940.00",
+      "variacion": "—",
+      "variacion_valor": null
+    },
+    {
+      "nemotecnico": "GRUPOSURA",
+      "emisor": "-",
+      "precio": "83,000.00",
+      "volumen": "25,792,946,700.00",
+      "variacion": "—",
+      "variacion_valor": null
+    },
+    {
+      "nemotecnico": "ICOLCAP",
+      "emisor": "-",
+      "precio": "23,052.50",
+      "volumen": "23,210,847,484.00",
+      "variacion": "—",
+      "variacion_valor": null
+    },
+    {
+      "nemotecnico": "CIBEST",
+      "emisor": "-",
+      "precio": "81,800.00",
+      "volumen": "11,528,427,220.00",
+      "variacion": "—",
+      "variacion_valor": null
+    },
+    {
+      "nemotecnico": "CEMARGOS",
+      "emisor": "-",
+      "precio": "9,600.00",
+      "volumen": "10,550,188,580.00",
+      "variacion": "—",
+      "variacion_valor": null
+    },
+    {
+      "nemotecnico": "PFGRUPSURA",
+      "emisor": "-",
+      "precio": "57,020.00",
+      "volumen": "10,499,150,380.00",
+      "variacion": "—",
+      "variacion_valor": null
+    },
+    {
+      "nemotecnico": "PFDAVIGRP",
+      "emisor": "-",
+      "precio": "34,480.00",
+      "volumen": "7,727,989,420.00",
+      "variacion": "—",
+      "variacion_valor": null
+    },
+    {
+      "nemotecnico": "ISA",
+      "emisor": "-",
+      "precio": "23,700.00",
+      "volumen": "6,882,270,300.00",
+      "variacion": "—",
+      "variacion_valor": null
+    },
+    {
+      "nemotecnico": "GRUPOARGOS",
+      "emisor": "-",
+      "precio": "18,560.00",
+      "volumen": "4,406,255,740.00",
       "variacion": "—",
       "variacion_valor": null
     }
