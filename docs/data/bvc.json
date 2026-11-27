@@ -1,89 +1,89 @@
 {
   "fuente": "https://www.bvc.com.co/mercado-local-en-linea?tab=renta-variable_mercado-local",
-  "fecha_datos": "2026-11-26",
+  "fecha_datos": "2026-11-27",
   "origen_fecha": "selector de la BVC",
-  "actualizado": "2026-11-26 22:38",
+  "actualizado": "2026-11-27 17:33",
   "zona_horaria": "America/Bogota",
   "especies": [
     {
       "nemotecnico": "ECOPETROL",
       "emisor": "ECOPETROL",
-      "precio": "2,360.00",
-      "volumen": "10,121,986,960.00",
-      "variacion": "-0.21%",
-      "variacion_valor": -0.21
-    },
-    {
-      "nemotecnico": "CEMARGOS",
-      "emisor": "CEMENTOS ARGOS",
-      "precio": "9,790.00",
-      "volumen": "6,115,115,180.00",
-      "variacion": "1.56%",
-      "variacion_valor": 1.56
-    },
-    {
-      "nemotecnico": "PFGRUPSURA",
-      "emisor": "GRUPO SURA",
-      "precio": "57,100.00",
-      "volumen": "5,878,491,160.00",
-      "variacion": "2.99%",
-      "variacion_valor": 2.99
+      "precio": "2,385.00",
+      "volumen": "30,149,524,730.00",
+      "variacion": "1.06%",
+      "variacion_valor": 1.06
     },
     {
       "nemotecnico": "PFCIBEST",
       "emisor": "Grupo Cibest S.A.",
-      "precio": "72,820.00",
-      "volumen": "5,509,336,320.00",
-      "variacion": "-0.25%",
-      "variacion_valor": -0.25
-    },
-    {
-      "nemotecnico": "CIBEST",
-      "emisor": "Grupo Cibest S.A.",
-      "precio": "84,480.00",
-      "volumen": "3,858,812,680.00",
-      "variacion": "2.00%",
-      "variacion_valor": 2.0
-    },
-    {
-      "nemotecnico": "ISA",
-      "emisor": "ISA INTERCONEXION ELECTRICA",
-      "precio": "25,100.00",
-      "volumen": "3,677,443,740.00",
-      "variacion": "4.50%",
-      "variacion_valor": 4.5
+      "precio": "72,500.00",
+      "volumen": "29,065,469,360.00",
+      "variacion": "-0.44%",
+      "variacion_valor": -0.44
     },
     {
       "nemotecnico": "ICOLCAP",
       "emisor": "FONDO BURSATIL ISHARES COLCAP",
-      "precio": "23,466.50",
-      "volumen": "2,641,902,119.00",
-      "variacion": "1.15%",
-      "variacion_valor": 1.15
+      "precio": "23,726.50",
+      "volumen": "11,953,455,357.00",
+      "variacion": "1.11%",
+      "variacion_valor": 1.11
     },
     {
-      "nemotecnico": "PFGRUPOARG",
-      "emisor": "GRUPO ARGOS",
-      "precio": "15,140.00",
-      "volumen": "2,306,166,400.00",
-      "variacion": "2.71%",
-      "variacion_valor": 2.71
-    },
-    {
-      "nemotecnico": "GRUPOARGOS",
-      "emisor": "GRUPO ARGOS",
-      "precio": "19,460.00",
-      "volumen": "2,200,485,300.00",
-      "variacion": "2.42%",
-      "variacion_valor": 2.42
+      "nemotecnico": "CIBEST",
+      "emisor": "Grupo Cibest S.A.",
+      "precio": "87,520.00",
+      "volumen": "11,415,460,080.00",
+      "variacion": "3.60%",
+      "variacion_valor": 3.6
     },
     {
       "nemotecnico": "GRUPOSURA",
       "emisor": "GRUPO SURA",
-      "precio": "82,920.00",
-      "volumen": "1,640,331,460.00",
-      "variacion": "-2.45%",
-      "variacion_valor": -2.45
+      "precio": "82,500.00",
+      "volumen": "10,947,853,720.00",
+      "variacion": "-0.51%",
+      "variacion_valor": -0.51
+    },
+    {
+      "nemotecnico": "CEMARGOS",
+      "emisor": "CEMENTOS ARGOS",
+      "precio": "10,000.00",
+      "volumen": "10,618,446,560.00",
+      "variacion": "2.15%",
+      "variacion_valor": 2.15
+    },
+    {
+      "nemotecnico": "ISA",
+      "emisor": "ISA INTERCONEXION ELECTRICA",
+      "precio": "25,800.00",
+      "volumen": "5,936,361,680.00",
+      "variacion": "2.79%",
+      "variacion_valor": 2.79
+    },
+    {
+      "nemotecnico": "PFGRUPOARG",
+      "emisor": "GRUPO ARGOS",
+      "precio": "15,260.00",
+      "volumen": "4,243,334,440.00",
+      "variacion": "0.79%",
+      "variacion_valor": 0.79
+    },
+    {
+      "nemotecnico": "GRUPOARGOS",
+      "emisor": "GRUPO ARGOS",
+      "precio": "19,880.00",
+      "volumen": "3,593,575,300.00",
+      "variacion": "2.16%",
+      "variacion_valor": 2.16
+    },
+    {
+      "nemotecnico": "GEB",
+      "emisor": "GRUPO ENERGIA BOGOTA",
+      "precio": "2,775.00",
+      "volumen": "3,477,221,605.00",
+      "variacion": "2.02%",
+      "variacion_valor": 2.02
     }
   ]
 }
